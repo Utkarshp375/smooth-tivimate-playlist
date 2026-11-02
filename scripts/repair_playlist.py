@@ -13,10 +13,16 @@ from urllib.parse import urlsplit
 
 import requests
 
-from build_playlist import (
-    LOCAL_SOURCES, OUTPUT_DIR, OUTPUT_FILE, SOURCE_LIST, TIMEOUT, USER_AGENT,
-    _is_safe_public_entry, load_remote, parse_m3u, read_text,
-)
+try:
+    from .build_playlist import (
+        LOCAL_SOURCES, OUTPUT_DIR, OUTPUT_FILE, SOURCE_LIST, USER_AGENT,
+        _is_safe_public_entry, load_remote, parse_m3u, read_text,
+    )
+except ImportError:  # Direct execution: python scripts/repair_playlist.py
+    from build_playlist import (
+        LOCAL_SOURCES, OUTPUT_DIR, OUTPUT_FILE, SOURCE_LIST, USER_AGENT,
+        _is_safe_public_entry, load_remote, parse_m3u, read_text,
+    )
 
 REPORT_FILE = OUTPUT_DIR / "checker_report.json"
 REPAIR_REPORT = OUTPUT_DIR / "repair_report.json"
