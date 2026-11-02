@@ -42,3 +42,13 @@ https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/outp
 GitHub raw hosting serves the playlist file; it is not a video proxy. The checker
 tests reachability, not successful playback. 401/403/404 can indicate expired
 or restricted sources; failed links are reported, not automatically deleted.
+
+
+## EPG
+The scheduled workflow uses the public India XMLTV feed `https://iptv-epg.org/files/epg-in.xml.gz` unless Actions variable `EPG_URL` overrides it. The publisher currently lists 275 Indian channels and 58,581 programmes; coverage and freshness can change. Gujarati/Hindi coverage is not guaranteed for every channel. EPG matching requires playlist `tvg-id` to equal an XMLTV channel ID.
+
+TiviMate EPG URL:
+`https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/output/epg.xml`
+
+## Authorized proxy
+A Cloudflare Worker template is in `proxy/worker.js`; it is not deployed yet. You must provide exact HTTPS hostnames you own or are authorized to relay and configure Cloudflare secrets. See `proxy/README.md`. Never commit proxy credentials or private source URLs into this public repository.
