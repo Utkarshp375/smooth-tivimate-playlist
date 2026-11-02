@@ -1,0 +1,690 @@
+{
+  "repaired": 0,
+  "checked": 171,
+  "items": [
+    {
+      "channel": "Aaj Tak (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "All Time Movies (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "AmarUjala (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Aradana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Aryan TV National (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Bada Khabar (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Bhakthi Siri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Captain (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Chardikla Time TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Colors Bangla HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Assam (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Manipur (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Nagaland (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Punjabi (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Tripura (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Dhamaal (576p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Disha TV (396p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Disney Channel (India) HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Dukhniwaran (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 4 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 5 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 6 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 7 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 8 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 9 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 10 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 11 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E-Vidya 12 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Andhra Pradesh (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Cinema HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Life (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Music (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Plus HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Telangana (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ETV Telugu HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "FashionTV (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Good News Today (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Harvest TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Hindu Dharmam (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Hosanna TV Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Punjab/Himachal (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jaya Plus (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "K News India (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Kalika TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Kanak News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MBC TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Nagaland TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Naxatra News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News 24 (India) (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "NewsX (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "NH BollyGold (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Nick Jr. (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Nickelodeon (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pradesh24 Gujarati (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Prarthana Bhawan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj News Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Shaheedan Live (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Shekinah TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sonic (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sony Aath (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sony BBC Earth HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sony Sports Ten 1 HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Star Gold HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Star Sports 2 HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Star Sports 2 Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "StarPlus (India) HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "STV Haryana News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Suriyan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "VIP News (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee 24 Ghanta (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee Action (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Diya TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "God Stands TV Hindi",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jus Hindi (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jus One (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Al Iraqia Sport (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Azteca Deportes Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Boks TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal do Inter (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal Showsport (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport (1080p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CBC Sport [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Combate (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 1 Portugal",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Deportes TVC (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DSports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "El-Heddaf TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 2 (Netherlands) (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 3 (Brazil) (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 3 (Netherlands)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 4 (Netherlands)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN (Netherlands) (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN Deportes HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 1 Turkiye",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 1 Polska (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 2 Turkiye",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 2 Polska (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 3 Polska",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Extreme Sports Channel (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fight Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Sports 2 (Argentina) (576i)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Futbol (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Golf + (1080p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Hard Knocks (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "HTV Sports (1080i)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jiangsu Sports & Leisure Channel (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "KHL (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "L1 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Lacrosse TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Loverseny kozvetites (420p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Match! Arena (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Match! Igra (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Match! Strana (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MLB Strike Zone (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MMA TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MSG (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Multivision Sports (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "N Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "One Golf (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Polsat Sport Fight",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "PTV Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "PX Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Radio Turrialba TV Sports (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "RTSH Sport (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Russian Extreme (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Setanta Sports 1",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Setanta Sports 2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Setanta Sports 3",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "SKI TV (1080p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 1",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 3",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 4",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 7",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 8",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport 9",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport Select",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "SOS Kanal Plus (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV1",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV5",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV6",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV7",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sport TV+",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sukan RTM (1080p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "T Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TDM Sports (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Teledeporte",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Ten Sports Pakistan",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "The Cycling Channel",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Tigo Sports (Costa Rica) (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Tigo Sports (El Salvador) (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Tigo Sports (Guatemala) (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TNT Sports 1",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TNT Sports 2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TNT Sports 3",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TNT Sports 4",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TRT Spor (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TSN4 (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVMatic Fight (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVP Sport (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVRI Sport (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "UPL.TV",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "USA Network (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vital Drive",
+      "status": "no_working_alternative"
+    }
+  ]
+}
