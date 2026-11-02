@@ -1,0 +1,5 @@
+{
+  "channels_with_expiry": 0,
+  "items": [],
+  "note": "Expiry is parsed from the URL only. No cookie/token is refreshed or stored."
+}

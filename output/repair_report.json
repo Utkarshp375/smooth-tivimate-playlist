@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 171,
+  "checked": 170,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -203,6 +203,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Leader (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -283,6 +287,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "VR Live (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Win TV (576p)",
       "status": "no_working_alternative"
     },
@@ -300,6 +308,10 @@
     },
     {
       "channel": "God Stands TV Hindi",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "GurSikh Sabha TV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -431,10 +443,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "HTV Sports (1080i)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -472,10 +480,6 @@
     },
     {
       "channel": "MMA TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -592,14 +596,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {

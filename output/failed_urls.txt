@@ -3,6 +3,7 @@ Aadinath TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8 | r
 Aaj Tak (1080p) | http://103.213.31.109:90/AajtakHD/playlist.m3u8 | error
 All Time Movies (576p) | https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8 | not_found
 AmarUjala (1080p) | https://amarujala.ottlive.co.in/amarujala/index.m3u8 | not_found
+AMN TV (576p) | https://live.onecloudlive.in/amn/amntv/index.m3u8 | http_error
 Anand Wari TV (576p) | https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8 | restricted
 Andy Haryana (576p) | https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8 | restricted
 APN (576p) | https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8 | restricted
@@ -98,7 +99,6 @@ Nick Jr. (India) (576p) | http://103.185.24.134:3001/NICK-JR/index.m3u8 | error
 Nickelodeon (India) (576p) | http://103.185.24.134:3001/NICK/index.m3u8 | error
 NK TV 24x7 (1080p) | https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8 | restricted
 NK TV Bangla (1080p) | https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8 | restricted
-OM TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8 | restricted
 Pear TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8 | restricted
 Pogo (576p) | http://103.151.60.162:2122/play/a01e/index.m3u8?hls= | restricted
 Pradesh24 Gujarati (1080p) | https://stream2.livebox.co.in/pradesh24hls/live.m3u8 | not_found
