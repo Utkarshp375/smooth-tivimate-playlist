@@ -1,0 +1,8 @@
+name = "smooth-tivimate-proxy"
+main = "worker.js"
+compatibility_date = "2026-11-02"
+
+[vars]
+# Exact HTTPS hostnames you own or have written permission to relay. No wildcards.
+ALLOWED_HOSTS = "replace-with-authorized-cdn.example"
+UPSTREAM_USER_AGENT = "SmoothTiviMateProxy/1.0"
