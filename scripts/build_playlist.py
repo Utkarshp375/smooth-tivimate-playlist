@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Build a combined M3U playlist from authorized source playlists.
+"""Combine authorized remote and local M3U playlists.
 
-Add HTTPS playlist URLs to config/sources.txt (one per line), or place local
-.m3u/.m3u8 files in sources/. Output: output/smooth_playlist.m3u.
+Remote sources: HTTPS URLs in config/sources.txt (one per line).
+Local sources: .m3u/.m3u8 files in sources/.
+Output: output/smooth_playlist.m3u
 """
 from __future__ import annotations
 
@@ -25,29 +26,33 @@ def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8-sig", errors="replace")
 
 
-def parse_m3u(text: str, source_name: str) -> list[tuple[str, str]]:
-    """Parse M3U into (EXTINF metadata, stream URL) pairs."""
-    entries: list[tuple[str, str]] = []
-    pending_extinf: str | None = None
+def parse_m3u(text: str, source_name: str) -> list[tuple[list[str], str]]:
+    """Return channel blocks as (metadata lines, stream URL), preserving tags."""
+    entries: list[tuple[list[str], str]] = []
+    pending: list[str] = []
 
     for raw_line in text.splitlines():
         line = raw_line.strip()
         if not line or line.startswith("#EXTM3U"):
             continue
         if line.startswith("#EXTINF"):
-            pending_extinf = line
+            # A new channel starts; discard any incomplete previous block.
+            pending = [line]
         elif line.startswith("#"):
-            continue
+            # Keep per-channel directives such as EXTVLCOPT and KODIPROP.
+            if pending:
+                pending.append(line)
         else:
-            metadata = pending_extinf or f'#EXTINF:-1 group-title="Other",{source_name}'
+            metadata = pending or [f'#EXTINF:-1 group-title="Other",{source_name}']
             entries.append((metadata, line))
-            pending_extinf = None
+            pending = []
+
     return entries
 
 
 def load_remote(url: str) -> str:
     parsed = urlsplit(url)
-    if parsed.scheme != "https" or not parsed.netloc:
+    if parsed.scheme.lower() != "https" or not parsed.netloc:
         raise ValueError("Only valid HTTPS playlist URLs are accepted")
     response = requests.get(
         url, timeout=TIMEOUT, headers={"User-Agent": USER_AGENT}
@@ -58,8 +63,9 @@ def load_remote(url: str) -> str:
 
 def main() -> int:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    entries: list[tuple[str, str]] = []
+    entries: list[tuple[list[str], str]] = []
     seen_urls: set[str] = set()
+    sources_loaded = 0
 
     if SOURCE_LIST.exists():
         for line_number, raw in enumerate(read_text(SOURCE_LIST).splitlines(), 1):
@@ -67,13 +73,15 @@ def main() -> int:
             if not url or url.startswith("#"):
                 continue
             try:
-                for metadata, stream_url in parse_m3u(load_remote(url), url):
+                source_entries = parse_m3u(load_remote(url), url)
+                sources_loaded += 1
+                for metadata, stream_url in source_entries:
                     if stream_url not in seen_urls:
                         entries.append((metadata, stream_url))
                         seen_urls.add(stream_url)
-                print(f"[OK] Loaded source on line {line_number}")
+                print(f"[OK] Loaded remote source line {line_number}: {len(source_entries)} channels")
             except Exception as exc:
-                print(f"[WARN] Source line {line_number}: {exc}")
+                print(f"[WARN] Remote source line {line_number} failed: {exc}")
 
     if LOCAL_SOURCES.exists():
         files = sorted(
@@ -82,25 +90,34 @@ def main() -> int:
         )
         for path in files:
             try:
-                for metadata, stream_url in parse_m3u(read_text(path), path.stem):
+                source_entries = parse_m3u(read_text(path), path.stem)
+                sources_loaded += 1
+                for metadata, stream_url in source_entries:
                     if stream_url not in seen_urls:
                         entries.append((metadata, stream_url))
                         seen_urls.add(stream_url)
-                print(f"[OK] Loaded local file: {path.name}")
+                print(f"[OK] Loaded local file {path.name}: {len(source_entries)} channels")
             except Exception as exc:
-                print(f"[WARN] Local file {path.name}: {exc}")
+                print(f"[WARN] Local file {path.name} failed: {exc}")
 
     if not entries:
-        print("No channels found. Add HTTPS playlist URLs to config/sources.txt")
-        print("or add .m3u/.m3u8 files to the sources/ folder.")
+        print("No channels found.")
+        print("Add authorized HTTPS M3U URLs to config/sources.txt or files to sources/.")
         return 1
 
-    with OUTPUT_FILE.open("w", encoding="utf-8", newline="\n") as output:
+    temp_file = OUTPUT_FILE.with_suffix(".m3u.tmp")
+    with temp_file.open("w", encoding="utf-8", newline="\n") as output:
         output.write("#EXTM3U\n")
         for metadata, stream_url in entries:
-            output.write(f"{metadata}\n{stream_url}\n")
+            for metadata_line in metadata:
+                output.write(f"{metadata_line}\n")
+            output.write(f"{stream_url}\n")
+    temp_file.replace(OUTPUT_FILE)
 
-    print(f"Built {len(entries)} unique channels: {OUTPUT_FILE.relative_to(ROOT)}")
+    print(
+        f"Built {len(entries)} unique channels from {sources_loaded} sources: "
+        f"{OUTPUT_FILE.relative_to(ROOT)}"
+    )
     return 0
 
 
