@@ -1,0 +1,20 @@
+{
+  "playlist_name": "Smooth TiviMate Playlist",
+  "output_file": "output/smooth_playlist.m3u",
+  "link_checker": {
+    "enabled": true,
+    "max_workers": 8,
+    "timeout_seconds": 15,
+    "remove_failed_links": false
+  },
+  "epg": {
+    "enabled": true,
+    "output_file": "output/epg.xml",
+    "url_environment_variable": "EPG_URL"
+  },
+  "source_policy": {
+    "https_only_for_remote_playlists": true,
+    "authorized_sources_only": true,
+    "no_drm_or_auth_bypass": true
+  }
+}

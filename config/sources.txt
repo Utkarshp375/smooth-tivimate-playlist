@@ -1,0 +1,4 @@
+# Add one authorized HTTPS M3U/M3U8 playlist URL per line.
+# Do not add private account URLs, passwords, cookies, or temporary signed links.
+# Example:
+# https://example.com/public-authorized-playlist.m3u
