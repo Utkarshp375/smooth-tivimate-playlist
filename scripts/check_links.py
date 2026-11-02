@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Check playlist URL reachability without publishing redirect tokens."""
+"""Check playlist URL reachability and audit visible token expiry timestamps.
+
+This reports expiry metadata only. It never refreshes cookies or tokens.
+"""
 from __future__ import annotations
 
 import concurrent.futures
 import json
 import re
 import time
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 
 import requests
 
@@ -16,13 +20,16 @@ PLAYLIST = ROOT / "output" / "smooth_playlist.m3u"
 OUTPUT_DIR = ROOT / "output"
 REPORT_FILE = OUTPUT_DIR / "checker_report.json"
 FAILED_FILE = OUTPUT_DIR / "failed_urls.txt"
+EXPIRY_FILE = OUTPUT_DIR / "expiry_report.json"
+RESTRICTED_FILE = OUTPUT_DIR / "restricted_channels.json"
 
 MAX_WORKERS = 8
 TIMEOUT = 15
-USER_AGENT = "Mozilla/5.0 (compatible; SmoothPlaylistLinkChecker/1.1)"
+USER_AGENT = "Mozilla/5.0 (compatible; SmoothPlaylistLinkChecker/1.2)"
 VALID_SCHEMES = {"http", "https"}
+IST = timezone(timedelta(hours=5, minutes=30))
 SENSITIVE_QUERY_KEYS = {
-    "hdnea", "hdntl", "token", "access_token", "auth", "authorization",
+    "hdnea", "hdntl", "hdnts", "token", "access_token", "auth", "authorization",
     "signature", "sig", "policy", "expires", "expiry", "exp", "jwt",
     "session", "sessionid", "cookie", "key", "x-amz-signature",
     "x-amz-credential", "x-amz-security-token",
@@ -33,7 +40,8 @@ def sanitize_url(url: str) -> str:
     """Redact credential-like query values before writing public reports."""
     parsed = urlsplit(url)
     safe_query = [
-        (key, "[REDACTED]" if key.lower() in SENSITIVE_QUERY_KEYS else value)
+        (key, "[REDACTED]" if re.sub(r"[^a-z0-9]", "", key.lower()) in
+         {re.sub(r"[^a-z0-9]", "", x) for x in SENSITIVE_QUERY_KEYS} else value)
         for key, value in parse_qsl(parsed.query, keep_blank_values=True)
     ]
     safe_netloc = parsed.netloc
@@ -45,6 +53,38 @@ def sanitize_url(url: str) -> str:
             host = f"{host}:{parsed.port}"
         safe_netloc = host
     return urlunsplit(parsed._replace(netloc=safe_netloc, query=urlencode(safe_query)))
+
+
+def extract_expiry(url: str, now: float | None = None) -> dict[str, object]:
+    """Read an exp=Unix timestamp from a URL or an embedded signed-cookie value."""
+    parsed = urlsplit(url)
+    candidates = [unquote(url)]
+    candidates.extend(unquote(value) for _, value in parse_qsl(parsed.query, keep_blank_values=True))
+    timestamps = []
+    for candidate in candidates:
+        match = re.search(r"(?:^|[~&?;])exp(?:iry)?=(\d{10})(?:\b|$)", candidate, re.I)
+        if match:
+            timestamps.append(int(match.group(1)))
+    if not timestamps:
+        return {"expiry_status": "unknown", "expiry_unix": None,
+                "expiry_utc": None, "expiry_ist": None, "seconds_remaining": None}
+    expiry = min(timestamps)
+    current = time.time() if now is None else now
+    remaining = int(expiry - current)
+    if remaining <= 0:
+        status = "expired"
+    elif remaining <= 24 * 60 * 60:
+        status = "expiring_within_24h"
+    else:
+        status = "valid_at_check_time"
+    dt = datetime.fromtimestamp(expiry, tz=timezone.utc)
+    return {
+        "expiry_status": status,
+        "expiry_unix": expiry,
+        "expiry_utc": dt.isoformat(),
+        "expiry_ist": dt.astimezone(IST).isoformat(),
+        "seconds_remaining": remaining,
+    }
 
 
 def read_playlist(path: Path) -> list[dict[str, str]]:
@@ -79,6 +119,7 @@ def check_url(channel: dict[str, str]) -> dict[str, object]:
         "final_url": None,
         "response_ms": None,
         "error": None,
+        **extract_expiry(url),
     }
 
     parsed = urlsplit(url)
@@ -112,7 +153,6 @@ def check_url(channel: dict[str, str]) -> dict[str, object]:
                 result["error"] = f"HTTP {response.status_code}"
     except requests.RequestException as exc:
         result["response_ms"] = round((time.monotonic() - started) * 1000)
-        # Exception messages can contain signed URLs; publish only the class.
         result["error"] = type(exc).__name__
     return result
 
@@ -146,27 +186,48 @@ def main() -> int:
         "results": results,
         "note": (
             "Reachability check only. A reachable URL may still fail playback; "
-            "401/403 can indicate provider restrictions. Sensitive query values "
-            "are redacted from this report."
+            "401/403 can indicate provider restrictions. Expiry timestamps are "
+            "read-only estimates from visible exp parameters; tokens are not renewed. "
+            "Sensitive query values are redacted from this report."
         ),
     }
-    REPORT_FILE.write_text(
-        json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    REPORT_FILE.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     failed = [item for item in results if item["status"] != "reachable"]
     FAILED_FILE.write_text(
-        "".join(
-            f"{item['name']} | {item['url']} | {item['status']}\n"
-            for item in failed
-        ),
+        "".join(f"{item['name']} | {item['url']} | {item['status']}\n" for item in failed),
         encoding="utf-8",
+",
     )
+    expiry_items = [
+        {key: item[key] for key in (
+            "name", "expiry_status", "expiry_unix", "expiry_utc",
+            "expiry_ist", "seconds_remaining"
+        )}
+        for item in results if item["expiry_unix"] is not None
+    ]
+    EXPIRY_FILE.write_text(json.dumps({
+        "channels_with_expiry": len(expiry_items),
+        "items": expiry_items,
+        "note": "Expiry is parsed from the URL only. No cookie/token is refreshed or stored.",
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    restricted = [
+        {"name": item["name"], "status": item["status"],
+         "http_status": item["http_status"], "url": item["url"]}
+        for item in results if item["status"] == "restricted"
+    ]
+    RESTRICTED_FILE.write_text(json.dumps({
+        "restricted_count": len(restricted), "items": restricted,
+        "note": "401/403 are reported only; authentication or provider restrictions are not bypassed.",
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+
     print("\nSummary:")
     for status, count in sorted(counts.items()):
         print(f"  {status}: {count}")
+    print(f"Expiry audit: {EXPIRY_FILE.relative_to(ROOT)}")
+    print(f"Restricted channels: {RESTRICTED_FILE.relative_to(ROOT)}")
     print(f"Report: {REPORT_FILE.relative_to(ROOT)}")
     print(f"Non-reachable list: {FAILED_FILE.relative_to(ROOT)}")
-    print("Failed/restricted links are reported, not automatically removed.")
+    print("Expired/restricted access is reported, not renewed or bypassed.")
     return 0
 
 
