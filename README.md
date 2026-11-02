@@ -27,6 +27,9 @@ automatically playable merely because a manifest hint is present.
 - Adds DASH manifest hints to public .mpd URLs.
 - Removes duplicate stream URLs.
 - Writes output/checker_report.json and output/failed_urls.txt.
+- Writes output/expiry_report.json when a URL exposes an `exp=` Unix timestamp. It shows expiry in UTC/IST and a countdown without storing the cookie value.
+- Writes output/restricted_channels.json for HTTP 401/403 channels, with sensitive query values redacted.
+- Can replace dead links only when an exact same-channel alternative from configured authorized sources is verified reachable.
 - Optionally downloads an authorized XMLTV feed using the EPG_URL Actions variable.
 - GitHub Actions runs every 10 minutes, on relevant pushes, or manually. Each run downloads the latest configured upstream M3U sources and rebuilds the playlist. If an upstream source publishes a replacement URL, the next successful run can pick it up; this does not independently refresh account-bound tokens or bypass 401/403 restrictions. GitHub may delay scheduled runs during high load.
 
@@ -42,7 +45,6 @@ https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/outp
 GitHub raw hosting serves the playlist file; it is not a video proxy. The checker
 tests reachability, not successful playback. 401/403/404 can indicate expired
 or restricted sources; failed links are reported, not automatically deleted.
-
 
 ## EPG
 The scheduled workflow uses the public India XMLTV feed `https://iptv-epg.org/files/epg-in.xml.gz` unless Actions variable `EPG_URL` overrides it. The publisher currently lists 275 Indian channels and 58,581 programmes; coverage and freshness can change. Gujarati/Hindi coverage is not guaranteed for every channel. EPG matching requires playlist `tvg-id` to equal an XMLTV channel ID.
