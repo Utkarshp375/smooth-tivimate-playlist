@@ -1,13 +1,9 @@
 {
   "repaired": 0,
-  "checked": 170,
+  "checked": 169,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "All Time Movies (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -36,10 +32,6 @@
     },
     {
       "channel": "Captain (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Chardikla Time TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -179,15 +171,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Kalika TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Kanak News (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "MBC TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Munsif TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -203,7 +195,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "News Leader (576p)",
+      "channel": "News Capital Gujarat (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -259,6 +251,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sooriyan TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Star Gold HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -279,15 +275,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sun Gemini (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Suriyan TV (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "VIP News (360p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "VR Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -308,10 +304,6 @@
     },
     {
       "channel": "God Stands TV Hindi",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "GurSikh Sabha TV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -427,10 +419,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Fox Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Futbol (1080p)",
       "status": "no_working_alternative"
     },
@@ -443,6 +431,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "HTV Sports (1080i)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -452,10 +444,6 @@
     },
     {
       "channel": "L1 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Lacrosse TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -472,6 +460,10 @@
     },
     {
       "channel": "Match! Strana (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Meridiano TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -596,6 +588,10 @@
     },
     {
       "channel": "Sport TV+",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {

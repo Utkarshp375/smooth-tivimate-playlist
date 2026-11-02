@@ -1,9 +1,7 @@
 9XM (1080p) | https://9xjio.wiseplayout.com/9XM/master.m3u8 | restricted
 Aadinath TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8 | restricted
 Aaj Tak (1080p) | http://103.213.31.109:90/AajtakHD/playlist.m3u8 | error
-All Time Movies (576p) | https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8 | not_found
 AmarUjala (1080p) | https://amarujala.ottlive.co.in/amarujala/index.m3u8 | not_found
-AMN TV (576p) | https://live.onecloudlive.in/amn/amntv/index.m3u8 | http_error
 Anand Wari TV (576p) | https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8 | restricted
 Andy Haryana (576p) | https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8 | restricted
 APN (576p) | https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8 | restricted
@@ -16,7 +14,6 @@ Bansal News (720p) | https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live
 Bhakthi Siri (576p) | https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8 | not_found
 Bharat Samachar (576p) | https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8 | restricted
 Captain (576p) | https://mumbai-edge.smartplaytv.in/captain/index.m3u8 | not_found
-Chardikla Time TV (1080p) | https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8 | not_found
 Colors HD (1080p) | http://103.151.60.162:2122/play/a02q/index.m3u8?hls= | restricted
 Colors Bangla HD (1080p) | http://103.165.93.31:8095/colorsBangla/index.m3u8 | error
 Colors Bangla Cinema (576p) | http://103.151.60.162:2122/play/a02m/index.m3u8?hls= | restricted
@@ -76,7 +73,6 @@ Jaya Plus (576p) | https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8 | not_
 K News India (720p) | https://legitpro.co.in/knews/index.m3u8 | not_found
 Kairali Arabia (576p) | https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8 | restricted
 Kairali TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8 | restricted
-Kalika TV (576p) | http://server.applelive.in/kalikatv/kalikatv.m3u8 | not_found
 Kanak News (576p) | https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8 | not_found
 Kappa TV (576p) | https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8 | restricted
 Kerala Vision (576p) | https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8 | restricted
@@ -88,9 +84,11 @@ MH One Movies (576p) | https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8 |
 MH One Shraddha (576p) | https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8 | restricted
 Movies Now HD (1080p) | http://103.151.60.162:2122/play/a02w/index.m3u8?hls= | restricted
 MTV (India) HD (396p) | https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8 | http_error
+Munsif TV (576p) | https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8 | not_found
 Nagaland TV (576p) | https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8 | not_found
 Naxatra News (576p) | https://fta.ektv.in/live/668/master.m3u8 | not_found
 News 24 (India) (720p) | https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8 | not_found
+News Capital Gujarat (1080p) | https://newscapital.com/hls/main4/stream.m3u8 | error
 News Daily 24 (576p) | https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8 | restricted
 NewsX (720p) | https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8 | not_found
 NewsX World (576p) | https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8 | restricted
@@ -99,6 +97,7 @@ Nick Jr. (India) (576p) | http://103.185.24.134:3001/NICK-JR/index.m3u8 | error
 Nickelodeon (India) (576p) | http://103.185.24.134:3001/NICK/index.m3u8 | error
 NK TV 24x7 (1080p) | https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8 | restricted
 NK TV Bangla (1080p) | https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8 | restricted
+OM TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8 | restricted
 Pear TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8 | restricted
 Pogo (576p) | http://103.151.60.162:2122/play/a01e/index.m3u8?hls= | restricted
 Pradesh24 Gujarati (1080p) | https://stream2.livebox.co.in/pradesh24hls/live.m3u8 | not_found
@@ -149,6 +148,7 @@ Star Sports Select 2 HD (1080p) | http://103.151.60.162:2122/play/a027/index.m3u
 StarPlus (India) HD (1080p) | http://66.102.126.10:8000/play/a008/index.m3u8 | error
 Studio Yuva (576p) | https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8 | restricted
 STV Haryana News (576p) | https://fta.ektv.in/live/607/master.m3u8 | not_found
+Sun Gemini (576p) | http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8 | not_found
 Sun Surya HD (1080p) | https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8 | restricted
 Sun TV HD (1080p) | https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8 | restricted
 Superhitz (576p) | http://103.151.60.162:2122/play/a02f/index.m3u8?hls= | restricted
@@ -195,7 +195,7 @@ Barca TV | https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8 | restri
 Boks TV (720p) | http://31.148.48.15/Boks_TV/index.m3u8 | error
 Canal do Inter (720p) [Not 24/7] | https://video01.soultv.com.br/internacional/internacional/playlist.m3u8 | error
 Canal Showsport (720p) | https://livestream.lumpentv.com.ar/hls/lumpen.m3u8 | not_found
-Canal+ Sport (1080p) [Geo-blocked] | http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8 | not_found
+Canal+ Sport (1080p) [Geo-blocked] | http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8 | error
 CBC Sport [Geo-blocked] | https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8 | error
 Combate (720p) | http://143.14.134.107/167/index.m3u8 | error
 DAZN 1 Portugal | http://50.7.120.34:8080/DAZN1/index.m3u8 | not_found
@@ -225,16 +225,14 @@ Eurosport 3 Polska | http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0 | 
 Extreme Sports Channel (576p) | http://46.32.176.50/extremesport/index.m3u8 | error
 Fight Network (1080p) | https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8 | error
 Fox Sports 2 (Argentina) (576i) | https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8 | error
-Fox Sports (1080p) | http://138.59.227.20:8000/play/a085/index.m3u8 | not_found
 Futbol (1080p) | https://live.teleradiocom.tj/8/3m.m3u8 | error
 GEM Sport | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR+-+GEM+Sport%2Fchunks.m3u8 | restricted
-Golf + (1080p) [Geo-blocked] | http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8 | not_found
+Golf + (1080p) [Geo-blocked] | http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8 | error
 Hard Knocks (1080p) | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418 | not_found
 Jiangsu Sports & Leisure Channel (576p) | http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY | error
 K19 | https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8 | restricted
 KHL (720p) | http://31.148.48.15/KHL_TV/index.m3u8 | error
 L1 (1080p) | http://45.4.1.201:8000/play/a1ai/index.m3u8 | error
-Lacrosse TV (720p) | https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8 | not_found
 Lazio Style Channel HD (720p) | https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8 | restricted
 Loverseny kozvetites (420p) | http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8 | error
 Match! Arena (720p) | http://31.148.48.15/Match_Arena_HD/index.m3u8 | error
@@ -286,8 +284,8 @@ Sport TV5 | http://znty.dyndns.org:5010/hls/stv5.m3u8 | error
 Sport TV6 | http://zntx.dyndns.org:8085/hls/stv6.m3u8 | error
 Sport TV7 | http://zntx.dyndns.org:8085/hls/stv7.m3u8 | error
 Sport TV+ | http://znty.dyndns.org:5010/hls/sportv+.m3u8 | error
-Sportitalia 24 (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8 | restricted
-Sportitalia Motori (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8 | restricted
+Sportitalia 24 (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8 | not_found
+Sportitalia Motori (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8 | not_found
 Sportitalia Solocalcio (1080p) | https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8 | restricted
 SporTV 2 (1080p) | http://195.178.110.110/sportv2/index.m3u8 | restricted
 SporTV 3 (1080p) | http://195.178.110.110/sportv3/index.m3u8 | restricted
