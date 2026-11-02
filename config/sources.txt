@@ -1,7 +1,5 @@
-# sportlive18 upstream combined playlist (auto-refreshed by its maintainer).
-# The builder filters subscription-labelled, cookie, DRM/ClearKey and expiring-token entries.
-https://raw.githubusercontent.com/sportlive18/All-Playlist/main/Combined.m3u
-# Public free-to-air/community sources
+# Public free-to-air/community playlists only.
+# Add another source only if you have permission to access and redistribute it.
 https://iptv-org.github.io/iptv/countries/in.m3u
 https://iptv-org.github.io/iptv/languages/guj.m3u
 https://iptv-org.github.io/iptv/languages/hin.m3u
