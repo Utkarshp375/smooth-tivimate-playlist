@@ -52,7 +52,7 @@ jobs:
       - name: Fetch EPG
         if: success()
         env:
-          EPG_URL: ${{ vars.EPG_URL }}
+          EPG_URL: ${{ vars.EPG_URL || 'https://iptv-epg.org/files/epg-in.xml.gz' }}
         run: python scripts/fetch_epg.py
       - name: Commit generated output
         run: |
