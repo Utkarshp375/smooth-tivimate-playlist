@@ -59,5 +59,20 @@ https://example.com/stable.m3u8
         entries = parse_m3u(source, "upstream")
         self.assertEqual([x[1] for x in entries], ["https://example.com/stable.m3u8"])
 
+    def test_filters_jio_style_wrapped_hdnea_and_other_signed_tokens(self):
+        source = """#EXTM3U
+#EXTINF:-1,Signed DASH
+https://example.com/live.mpd?__hdnea__=secret
+#EXTINF:-1,Signed HLS
+https://example.com/live.m3u8?__hdntl__=secret
+#EXTINF:-1,Akamaized token
+https://example.com/live.m3u8?hdnts=secret
+#EXTINF:-1,Stable DASH
+https://example.com/free/live.mpd
+"""
+        entries = parse_m3u(source, "upstream")
+        self.assertEqual([x[1] for x in entries], ["https://example.com/free/live.mpd"])
+        self.assertIn("#KODIPROP:inputstream.adaptive.manifest_type=mpd", entries[0][0])
+
 if __name__ == "__main__":
     unittest.main()
