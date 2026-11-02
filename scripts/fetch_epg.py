@@ -37,7 +37,7 @@ def decode_xmltv_payload(data: bytes, max_bytes: int = MAX_BYTES) -> str:
 
 
 def main() -> int:
-    url = os.getenv("EPG_URL", "").strip()
+    url = os.getenv("EPG_URL", "https://iptv-epg.org/files/epg-in.xml.gz").strip()
     if not url:
         print("[INFO] EPG_URL is not configured; skipping EPG download.")
         return 0
