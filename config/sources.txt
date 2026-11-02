@@ -1,4 +1,11 @@
-# Add one authorized HTTPS M3U/M3U8 playlist URL per line.
-# Do not add private account URLs, passwords, cookies, or temporary signed links.
-# Example:
-# https://example.com/public-authorized-playlist.m3u
+# Public community playlists for free-to-air channels.
+# These are third-party stream directories, not guaranteed to play in every region.
+# Use only channels you are authorized to watch. Sources may change or disappear.
+# India-wide channels
+https://iptv-org.github.io/iptv/countries/in.m3u
+# Gujarati-language channels (may include channels outside India)
+https://iptv-org.github.io/iptv/languages/guj.m3u
+# Hindi-language channels (may include channels outside India)
+https://iptv-org.github.io/iptv/languages/hin.m3u
+# Publicly listed sports channels
+https://iptv-org.github.io/iptv/categories/sports.m3u

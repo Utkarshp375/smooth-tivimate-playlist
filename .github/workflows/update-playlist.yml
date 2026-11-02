@@ -1,6 +1,15 @@
 name: Update TiviMate playlist
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "scripts/**"
+      - "sources/**"
+      - "tests/**"
+      - ".github/workflows/update-playlist.yml"
+      - "requirements.txt"
   workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
