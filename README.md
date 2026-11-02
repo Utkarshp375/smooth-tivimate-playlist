@@ -1,35 +1,43 @@
 # Smooth TiviMate Playlist
 
-A GitHub Actions-based builder for combining public free-to-air M3U sources,
-checking stream URL reachability, and optionally downloading an XMLTV EPG feed.
+A GitHub Actions playlist builder that combines public community M3U sources,
+removes duplicates, filters protected/temporary links, checks reachability and
+optionally downloads an authorized XMLTV EPG feed.
 
-## Included public sources
+## Sources
 
-The starter configuration uses community-maintained public playlists:
-- India country playlist
-- Gujarati-language playlist
-- Hindi-language playlist
-- Sports category playlist
+- sportlive18/All-Playlist upstream combined M3U (fetched fresh on each run)
+- India, Gujarati, Hindi and Sports public playlists from iptv-org
 
-The sources are listed in config/sources.txt and are merged with duplicate
-stream URLs removed. Public streams can be geo-restricted, moved, or removed;
-not every channel is guaranteed to play in every location.
+The sportlive18 feed is treated as untrusted input. Entries containing DRM or
+ClearKey directives, cookies, expiring/signed URL parameters, or labels/hosts
+for subscription services (FanCode, SonyLIV, Jio Hotstar, Prime Video, Willow,
+Zee5, etc.) are excluded. This avoids copying session credentials or protected
+streams into this repository. This filter is conservative and may exclude
+legitimate channels that happen to use similar labels or URL parameters.
+
+This project does not generate stream URLs, retrieve account cookies, bypass
+DRM, subscriptions, authentication or geographic restrictions. Use only streams
+you are authorized to access and redistribute.
 
 ## Features
-- Combines remote HTTPS playlists and local .m3u/.m3u8 files in sources/.
-- Preserves EXTINF and per-channel M3U directives such as EXTVLCOPT.
-- Removes duplicate stream URLs.
-- Checks stream reachability and writes checker_report.json and failed_urls.txt.
-- Downloads an authorized XMLTV EPG feed when the GitHub Actions variable
-  EPG_URL is configured.
-- Runs after relevant pushes, manually, and every six hours.
 
-## Add your own sources
-Edit config/sources.txt and add one authorized HTTPS M3U URL per line.
-Alternatively, place your own .m3u/.m3u8 files in sources/. Do not commit
-passwords, cookies, account credentials, or temporary signed URLs.
+- Fetches upstream M3U sources and local .m3u/.m3u8 files in sources/.
+- Preserves safe EXTINF and non-authentication metadata.
+- Filters cookie, DRM/ClearKey, subscription-labelled and expiring-token entries.
+- Removes duplicate stream URLs.
+- Checks links and writes output/checker_report.json and output/failed_urls.txt.
+- Optionally downloads an authorized XMLTV feed when the Actions variable
+  EPG_URL is configured.
+- GitHub Actions runs every 30 minutes, on relevant pushes, or manually.
+
+## Add local sources
+
+Place authorized .m3u/.m3u8 files in sources/. Do not commit passwords, cookies,
+account credentials, DRM keys or temporary signed URLs.
 
 ## Run locally
+
 Requires Python 3.10+.
 
     python -m pip install -r requirements.txt
@@ -37,29 +45,23 @@ Requires Python 3.10+.
     python scripts/build_playlist.py
     python scripts/check_links.py
 
-## GitHub automatic updates
-1. Open Settings -> Secrets and variables -> Actions -> Variables.
-2. Add a repository variable named EPG_URL only if you have an authorized
-   HTTPS XMLTV feed. Leave it unset to skip EPG download.
-3. Open Actions -> Update TiviMate playlist -> Run workflow (or wait for the
-   six-hour schedule).
+## EPG
+
+To enable EPG, add a repository variable named EPG_URL at:
+Settings -> Secrets and variables -> Actions -> Variables.
+Use only an authorized HTTPS XMLTV feed. If unset, EPG download is skipped.
 
 ## TiviMate URLs
-After the first successful GitHub Actions run:
 
-Playlist:
+Playlist (available after a successful Actions run):
 https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/output/smooth_playlist.m3u
 
 EPG (only if configured and downloaded):
 https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/output/epg.xml
 
-## Important limitations
-This project aggregates public playlist links; it does not host video. It does
-not include JioTV, SonyLIV, FanCode, or other subscription-only streams and
-does not refresh paid-service session tokens. Add such feeds only when you
-have an official API or explicit redistribution authorization. The project
-does not bypass DRM, authentication, subscriptions, or geographic restrictions.
+## Notes
 
-A 401/403/404 result does not always mean a channel is permanently dead. The
-checker reports status and never removes channels automatically. GitHub raw
-hosting is static file hosting, not a media proxy.
+GitHub raw hosting serves the generated playlist file; it is not a video proxy.
+A 401/403/404 can indicate an expired or restricted source, not necessarily a
+permanently dead channel. The checker reports status and does not delete
+channels automatically.

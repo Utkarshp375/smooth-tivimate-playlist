@@ -1,11 +1,8 @@
-# Public community playlists for free-to-air channels.
-# These are third-party stream directories, not guaranteed to play in every region.
-# Use only channels you are authorized to watch. Sources may change or disappear.
-# India-wide channels
+# sportlive18 upstream combined playlist (auto-refreshed by its maintainer).
+# The builder filters subscription-labelled, cookie, DRM/ClearKey and expiring-token entries.
+https://raw.githubusercontent.com/sportlive18/All-Playlist/main/Combined.m3u
+# Public free-to-air/community sources
 https://iptv-org.github.io/iptv/countries/in.m3u
-# Gujarati-language channels (may include channels outside India)
 https://iptv-org.github.io/iptv/languages/guj.m3u
-# Hindi-language channels (may include channels outside India)
 https://iptv-org.github.io/iptv/languages/hin.m3u
-# Publicly listed sports channels
 https://iptv-org.github.io/iptv/categories/sports.m3u
