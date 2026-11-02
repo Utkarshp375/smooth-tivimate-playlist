@@ -28,7 +28,7 @@ automatically playable merely because a manifest hint is present.
 - Removes duplicate stream URLs.
 - Writes output/checker_report.json and output/failed_urls.txt.
 - Optionally downloads an authorized XMLTV feed using the EPG_URL Actions variable.
-- GitHub Actions runs every 30 minutes, on relevant pushes, or manually.
+- GitHub Actions runs every 10 minutes, on relevant pushes, or manually. Each run downloads the latest configured upstream M3U sources and rebuilds the playlist. If an upstream source publishes a replacement URL, the next successful run can pick it up; this does not independently refresh account-bound tokens or bypass 401/403 restrictions. GitHub may delay scheduled runs during high load.
 
 ## Run locally
     python -m pip install -r requirements.txt
