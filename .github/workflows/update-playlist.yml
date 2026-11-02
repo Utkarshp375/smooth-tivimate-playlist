@@ -52,6 +52,13 @@ jobs:
         if: success()
         run: python scripts/check_links.py
         continue-on-error: true
+      - name: Repair dead links from authorized sources
+        if: success()
+        run: python scripts/repair_playlist.py
+      - name: Recheck playlist after repair
+        if: success()
+        run: python scripts/check_links.py
+        continue-on-error: true
       - name: Fetch EPG
         if: success()
         env:
