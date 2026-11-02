@@ -156,12 +156,12 @@ def main() -> int:
     failed = [item for item in results if item["status"] != "reachable"]
     FAILED_FILE.write_text(
         "".join(
-            f"{item['name']} | {item['url']} | {item['status']}\\n"
+            f"{item['name']} | {item['url']} | {item['status']}\n"
             for item in failed
         ),
         encoding="utf-8",
     )
-    print("\\nSummary:")
+    print("\nSummary:")
     for status, count in sorted(counts.items()):
         print(f"  {status}: {count}")
     print(f"Report: {REPORT_FILE.relative_to(ROOT)}")
