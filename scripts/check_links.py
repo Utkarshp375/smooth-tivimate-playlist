@@ -196,7 +196,6 @@ def main() -> int:
     FAILED_FILE.write_text(
         "".join(f"{item['name']} | {item['url']} | {item['status']}\n" for item in failed),
         encoding="utf-8",
-",
     )
     expiry_items = [
         {key: item[key] for key in (
