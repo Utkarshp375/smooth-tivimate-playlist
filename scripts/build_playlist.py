@@ -12,12 +12,15 @@ LOCAL_SOURCES = ROOT / "sources"
 OUTPUT_DIR = ROOT / "output"
 OUTPUT_FILE = OUTPUT_DIR / "smooth_playlist.m3u"
 TIMEOUT = 30
-USER_AGENT = "Mozilla/5.0 (compatible; SmoothTiviMatePlaylist/2.1)"
+USER_AGENT = "Mozilla/5.0 (compatible; SmoothTiviMatePlaylist/2.2)"
 BLOCKED_LABELS = ("fancode", "sonyliv", "sony liv", "jio hotstar", "hotstar",
                   "prime video", "primevideo", "willow", "zee5", "vzy")
-BLOCKED_QUERY_KEYS = {"hdnea", "hdntl", "token", "access_token", "auth",
- "authorization", "signature", "sig", "policy", "expires", "expiry", "exp",
- "jwt", "session", "sessionid", "cookie", "key"}
+# Compare normalized parameter names so variants such as __hdnea__ are caught.
+BLOCKED_QUERY_KEYS = {
+    "hdnea", "hdntl", "hdnts", "token", "accesstoken", "auth",
+    "authorization", "signature", "sig", "policy", "expires", "expiry",
+    "exp", "jwt", "session", "sessionid", "cookie", "key"
+}
 ALLOWED_KODIPROP = {"inputstream", "inputstream.adaptive.manifest_type"}
 ALLOWED_VLC_OPTIONS = {"http-user-agent", "http-referrer"}
 
@@ -64,12 +67,14 @@ def _is_safe_public_entry(metadata: list[str], stream_url: str):
     if any(term.replace(" ", "") in host for term in
            ("hotstar", "sonyliv", "fancode", "primevideo", "willow", "zee5")):
         return False, "subscription-service host", []
-    query_keys = {k.lower() for k, _ in parse_qsl(parsed.query, keep_blank_values=True)}
-    if query_keys & BLOCKED_QUERY_KEYS or re.search(
-        r"(?:hdnea|hdntl|token|signature|policy|expires|jwt)=", parsed.query, re.I
-    ):
+    query_keys = {
+        re.sub(r"[^a-z0-9]", "", key.lower())
+        for key, _ in parse_qsl(parsed.query, keep_blank_values=True)
+    }
+    if query_keys & BLOCKED_QUERY_KEYS:
         return False, "signed or expiring URL", []
     if parsed.path.lower().endswith(".mpd"):
+        # Add generic DASH hints only. Do not inject DRM/license keys.
         existing = {x.split("=", 1)[0].lower() for x in clean
                     if x.upper().startswith("#KODIPROP:")}
         for hint in ("#KODIPROP:inputstream=inputstream.adaptive",
