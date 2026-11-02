@@ -150,7 +150,7 @@ def main() -> int:
         return 1
     temp = OUTPUT_FILE.with_suffix(".m3u.tmp")
     with temp.open("w", encoding="utf-8", newline="\n") as out:
-        out.write("#EXTM3U\n")
+        out.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/Utkarshp375/smooth-tivimate-playlist/main/output/epg.xml"\n')
         for metadata, stream in entries:
             for item in metadata:
                 out.write(item + "\n")
