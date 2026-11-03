@@ -1,5 +1,5 @@
 {
-  "restricted_count": 143,
+  "restricted_count": 141,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -254,18 +254,6 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8"
     },
     {
-      "name": "NK TV 24x7 (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8"
-    },
-    {
-      "name": "NK TV Bangla (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8"
-    },
-    {
       "name": "Pear TV (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -420,12 +408,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls="
-    },
-    {
-      "name": "Spondon (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8"
     },
     {
       "name": "Star Gold 2 HD (1080p)",
@@ -804,6 +786,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
+    },
+    {
+      "name": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",

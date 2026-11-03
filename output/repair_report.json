@@ -1,17 +1,21 @@
 {
   "repaired": 0,
-  "checked": 167,
+  "checked": 173,
   "items": [
+    {
+      "channel": "Aagaaz Times (1080p)",
+      "status": "no_working_alternative"
+    },
     {
       "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "AmarUjala (1080p)",
+      "channel": "All Time Movies (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "ANB News (720p)",
+      "channel": "AmarUjala (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -24,6 +28,10 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -60,6 +68,10 @@
     },
     {
       "channel": "DD Tripura (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Deewana HD (540p)",
       "status": "no_working_alternative"
     },
     {
@@ -175,10 +187,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Kalika TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Kanak News (576p)",
       "status": "no_working_alternative"
     },
@@ -215,7 +223,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Pradesh24 Gujarati (1080p)",
+      "channel": "NK TV 24x7 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "NK TV Bangla (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -235,10 +247,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Shemaroo Josh (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sonic (576p)",
       "status": "no_working_alternative"
     },
@@ -252,6 +260,14 @@
     },
     {
       "channel": "Sony Sports Ten 1 HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sooriyan TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Spondon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -287,11 +303,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "VR Live (720p)",
+      "channel": "Win TV (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Win TV (576p)",
+      "channel": "ZB Cartoon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -331,10 +347,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Canal Showsport (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Canal+ Sport (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -348,6 +360,10 @@
     },
     {
       "channel": "DAZN 1 Portugal",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 5 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -584,6 +600,14 @@
     },
     {
       "channel": "Sport TV+",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
