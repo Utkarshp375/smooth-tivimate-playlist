@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 173,
+  "checked": 171,
   "items": [
     {
       "channel": "Aagaaz Times (1080p)",
@@ -8,10 +8,6 @@
     },
     {
       "channel": "Aaj Tak (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "All Time Movies (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -31,15 +27,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Assam Talks (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Bada Khabar (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Bhakthi Siri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "BHI Channel (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -68,10 +64,6 @@
     },
     {
       "channel": "DD Tripura (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Deewana HD (540p)",
       "status": "no_working_alternative"
     },
     {
@@ -263,10 +255,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sooriyan TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Spondon (1080p)",
       "status": "no_working_alternative"
     },
@@ -299,15 +287,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Vision (India) (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Win TV (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "ZB Cartoon (1080p)",
+      "channel": "ZB Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -328,6 +312,10 @@
     },
     {
       "channel": "Jus One (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ACC Network (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -363,11 +351,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "DAZN 5 (720p)",
+      "channel": "Deportes TVC (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Deportes TVC (1080p)",
+      "channel": "DeporTV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -400,6 +388,10 @@
     },
     {
       "channel": "ESPN Deportes HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN Premium HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -483,10 +475,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "MRTV Sports [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -496,6 +484,10 @@
     },
     {
       "channel": "N Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "NFL Network (720p)",
       "status": "no_working_alternative"
     },
     {
