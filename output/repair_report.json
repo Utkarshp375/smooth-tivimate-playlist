@@ -11,6 +11,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ANB News (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Aradana TV (576p)",
       "status": "no_working_alternative"
     },
@@ -171,15 +175,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Kalika TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Kanak News (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "MBC TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Munsif TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -192,14 +196,6 @@
     },
     {
       "channel": "News 24 (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "News Capital Gujarat (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -227,14 +223,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Public First (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "R Plus (768p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Raj News Kannada (576p)",
       "status": "no_working_alternative"
     },
@@ -244,6 +232,10 @@
     },
     {
       "channel": "Shekinah TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Shemaroo Josh (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -260,10 +252,6 @@
     },
     {
       "channel": "Sony Sports Ten 1 HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sooriyan TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -292,6 +280,14 @@
     },
     {
       "channel": "VIP News (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vision (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "VR Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -468,6 +464,10 @@
     },
     {
       "channel": "MMA TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
