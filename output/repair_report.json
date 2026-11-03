@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 169,
+  "checked": 167,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -199,6 +199,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Nation 81 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -220,6 +224,14 @@
     },
     {
       "channel": "Prarthana Bhawan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Public First (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "R Plus (768p)",
       "status": "no_working_alternative"
     },
     {
@@ -275,10 +287,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sun Gemini (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Suriyan TV (576p)",
       "status": "no_working_alternative"
     },
@@ -300,10 +308,6 @@
     },
     {
       "channel": "Diya TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "God Stands TV Hindi",
       "status": "no_working_alternative"
     },
     {
@@ -431,10 +435,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "HTV Sports (1080i)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -460,10 +460,6 @@
     },
     {
       "channel": "Match! Strana (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Meridiano TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -588,10 +584,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
