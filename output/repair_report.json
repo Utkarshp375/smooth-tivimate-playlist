@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 171,
+  "checked": 167,
   "items": [
     {
       "channel": "Aagaaz Times (1080p)",
@@ -203,10 +203,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "NH BollyGold (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Nick Jr. (India) (576p)",
       "status": "no_working_alternative"
     },
@@ -220,6 +216,10 @@
     },
     {
       "channel": "NK TV Bangla (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pradesh24 Gujarati (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -284,6 +284,10 @@
     },
     {
       "channel": "VIP News (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vistaar News (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -355,10 +359,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "DeporTV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "DSports (1080p)",
       "status": "no_working_alternative"
     },
@@ -391,10 +391,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN Premium HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Eurosport 1 Turkiye",
       "status": "no_working_alternative"
     },
@@ -420,10 +416,6 @@
     },
     {
       "channel": "Fight Network (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Fox Sports 2 (Argentina) (576i)",
       "status": "no_working_alternative"
     },
     {
@@ -592,14 +584,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
