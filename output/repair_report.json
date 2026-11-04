@@ -1,13 +1,13 @@
 {
   "repaired": 0,
-  "checked": 182,
+  "checked": 176,
   "items": [
     {
-      "channel": "Aaj Tak (1080p)",
+      "channel": "&TV (720p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "All Time Movies (576p)",
+      "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -15,7 +15,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "AMN TV (576p)",
+      "channel": "Anmol TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -35,7 +35,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ATN Samachar (1080p)",
+      "channel": "Assam Talks (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "B4U Kadak (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -44,10 +48,6 @@
     },
     {
       "channel": "Bhakthi Siri (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Bhakti Dhara (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -211,10 +211,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "News Nation 81 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -271,6 +267,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sony SAB (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sony Sports Ten 1 HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -304,14 +304,6 @@
     },
     {
       "channel": "VIP News (360p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Vision (India) (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "VTU (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -355,10 +347,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "AyM Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Azteca Deportes Network (1080p)",
       "status": "no_working_alternative"
     },
@@ -376,10 +364,6 @@
     },
     {
       "channel": "CBC Sport [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Claro Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -412,10 +396,6 @@
     },
     {
       "channel": "ESPN 3 (Netherlands)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN 4 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -456,10 +436,6 @@
     },
     {
       "channel": "Fight Network (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "FTV (Bolivia) (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -643,11 +619,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sukan RTM (1080p) [Geo-blocked]",
+      "channel": "Sportivnyy (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "T Sports 7",
+      "channel": "Sukan RTM (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
