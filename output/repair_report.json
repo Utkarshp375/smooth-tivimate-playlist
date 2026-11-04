@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 176,
+  "checked": 186,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -8,6 +8,10 @@
     },
     {
       "channel": "Aaj Tak (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -167,11 +171,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Harvest USA (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hosanna TV Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "HSTV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -243,6 +255,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Punjabi Beats HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Raj News Kannada (576p)",
       "status": "no_working_alternative"
     },
@@ -311,14 +327,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ZB Cinema (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Music (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Zee 24 Ghanta (576p)",
       "status": "no_working_alternative"
     },
@@ -347,6 +355,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "AyM Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Azteca Deportes Network (1080p)",
       "status": "no_working_alternative"
     },
@@ -372,6 +384,18 @@
     },
     {
       "channel": "DAZN 1 Portugal",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 3 Portugal (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 4 (540p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 5 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -407,6 +431,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN (United States) (432p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -436,6 +464,14 @@
     },
     {
       "channel": "Fight Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Deportes (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Sports 2 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -500,6 +536,10 @@
     },
     {
       "channel": "N Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "NBA TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -619,10 +659,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportivnyy (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sukan RTM (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -656,6 +692,10 @@
     },
     {
       "channel": "Tigo Sports (Guatemala) (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Tigo Sports (Honduras) (1080p)",
       "status": "no_working_alternative"
     },
     {
