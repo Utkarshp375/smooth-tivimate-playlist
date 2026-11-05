@@ -2,15 +2,14 @@
 &TV (720p) | https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8 | not_found
 Aadinath TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8 | restricted
 Aaj Tak (1080p) | http://103.213.31.109:90/AajtakHD/playlist.m3u8 | error
-All Time Movies (576p) | https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8 | not_found
+Aakaash Aath (576p) | http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8 | error
 AmarUjala (1080p) | https://amarujala.ottlive.co.in/amarujala/index.m3u8 | not_found
-AMN TV (576p) | https://live.onecloudlive.in/amn/amntv/index.m3u8 | http_error
 Anand Wari TV (576p) | https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8 | restricted
 Andy Haryana (576p) | https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8 | restricted
 APN (576p) | https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8 | restricted
 Aradana TV (576p) | https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8 | not_found
-Aryan TV National (576p) | https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8 | not_found
 Asom Live 24 (576p) | https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8 | not_found
+Assam Talks (576p) | http://tvsen7.aynascope.net/AssamTalks/index.m3u8 | error
 Awakening TV (576p) | https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8 | restricted
 Bada Khabar (576p) | https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8 | not_found
 Bansal News (720p) | https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8 | restricted
@@ -90,16 +89,17 @@ Nagaland TV (576p) | https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8 | n
 Naxatra News (576p) | https://fta.ektv.in/live/668/master.m3u8 | not_found
 News 24 (India) (720p) | https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8 | not_found
 News Daily 24 (576p) | https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8 | restricted
+News Nation 81 (1080p) | https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8 | not_found
 NewsX (720p) | https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8 | not_found
 NewsX World (576p) | https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8 | restricted
 Nick Jr. (India) (576p) | http://103.185.24.134:3001/NICK-JR/index.m3u8 | error
 Nickelodeon (India) (576p) | http://103.185.24.134:3001/NICK/index.m3u8 | error
 NK TV 24x7 (1080p) | https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8 | error
 NK TV Bangla (1080p) | https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8 | error
-Oli TV (India) (1080p) | https://live.olidigital.in/olitv/olitv/index.m3u8 | restricted
 OM TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8 | restricted
 Pear TV (576p) | https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8 | restricted
 Pogo (576p) | http://103.151.60.162:2122/play/a01e/index.m3u8?hls= | restricted
+Pradesh24 Gujarati (1080p) | https://stream2.livebox.co.in/pradesh24hls/live.m3u8 | not_found
 Prameya News7 (576p) | https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8 | restricted
 Prarthana Bhawan TV (576p) | https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8 | not_found
 Pratham News (576p) | https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8 | restricted
@@ -137,9 +137,8 @@ Star Gold 2 HD (1080p) | http://103.151.60.162:2122/play/a01v/index.m3u8?hls= | 
 Star Gold HD (1080p) | http://103.185.24.134:3001/Star-Gold/index.m3u8 | error
 Star Jalsha (576p) | http://103.151.60.162:2122/play/a00w/index.m3u8?hls= | restricted
 Star Kiran (576p) | http://103.151.60.162:2122/play/a032/index.m3u8?hls= | restricted
-Star Maa HD (720p) | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8 | not_found
 Star Sports 2 (576p) | http://103.151.60.162:2122/play/a00v/index.m3u8?hls= | restricted
-Star Sports 2 HD (720p) | http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8 | not_found
+Star Sports 2 HD (720p) | http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8 | error
 Star Sports 2 Hindi (720p) | https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8 | not_found
 Star Sports 3 (576p) | http://103.151.60.162:2122/play/a029/index.m3u8?hls= | restricted
 Star Sports Select 1 HD (1080p) | http://103.151.60.162:2122/play/a026/index.m3u8?hls= | restricted
@@ -211,6 +210,7 @@ ESPN 3 (Netherlands) | https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8 | err
 ESPN 3 Latin America Argentina | https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8 | restricted
 ESPN 4 (Netherlands) | https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8 | error
 ESPN (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8 | error
+ESPN (United States) (432p) | http://tvsen7.aynascope.net/espn/index.m3u8 | error
 ESPN Deportes HD (720p) | http://168.228.44.241:9998/play/a0dz/index.m3u8 | error
 ESPN Latin America Argentina | https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8 | restricted
 Esport3 (1080p) [Geo-blocked] | https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8 | restricted
@@ -222,10 +222,10 @@ Eurosport 3 Polska | http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0 | 
 Extreme Sports Channel (576p) | http://46.32.176.50/extremesport/index.m3u8 | error
 Fight Network (1080p) | https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8 | error
 Fox Deportes (720p) | http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8 | not_found
+Fox Sports 2 (720p) | https://tvsen7.aynascope.net/foxsports2/index.m3u8 | error
 Futbol (1080p) | https://live.teleradiocom.tj/8/3m.m3u8 | error
 GEM Sport | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR+-+GEM+Sport%2Fchunks.m3u8 | restricted
 Golf + (1080p) [Geo-blocked] | http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8 | error
-Golf Channel Latin America (1080p) | http://15.204.246.24:8080/GolfChannelHD/index.m3u8 | restricted
 Hard Knocks (1080p) | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418 | not_found
 Jiangsu Sports & Leisure Channel (576p) | http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY | error
 K19 | https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8 | restricted
@@ -285,8 +285,8 @@ Sport TV5 | http://znty.dyndns.org:5010/hls/stv5.m3u8 | error
 Sport TV6 | http://zntx.dyndns.org:8085/hls/stv6.m3u8 | error
 Sport TV7 | http://zntx.dyndns.org:8085/hls/stv7.m3u8 | error
 Sport TV+ | http://znty.dyndns.org:5010/hls/sportv+.m3u8 | error
-Sportitalia 24 (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8 | restricted
-Sportitalia Motori (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8 | restricted
+Sportitalia 24 (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8 | not_found
+Sportitalia Motori (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8 | not_found
 Sportitalia Solocalcio (1080p) | https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8 | restricted
 SporTV 2 (1080p) | http://195.178.110.110/sportv2/index.m3u8 | restricted
 SporTV 3 (1080p) | http://195.178.110.110/sportv3/index.m3u8 | restricted

@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 175,
+  "checked": 181,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -11,15 +11,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "All Time Movies (576p)",
+      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "AmarUjala (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -32,6 +28,10 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -183,6 +183,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "KCL TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MBC TV (576p)",
       "status": "no_working_alternative"
     },
@@ -196,6 +200,10 @@
     },
     {
       "channel": "News 24 (India) (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -216,6 +224,10 @@
     },
     {
       "channel": "NK TV Bangla (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pradesh24 Gujarati (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -395,6 +407,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN (United States) (432p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -428,6 +444,10 @@
     },
     {
       "channel": "Fox Deportes (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Sports 2 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -696,6 +716,10 @@
     },
     {
       "channel": "USA Network (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vinh Long TV 4 (720p)",
       "status": "no_working_alternative"
     },
     {
