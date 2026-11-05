@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 186,
+  "checked": 182,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -11,7 +11,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Aakaash Aath (576p)",
+      "channel": "All Time Movies (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -36,10 +36,6 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -171,19 +167,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Harvest USA (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hosanna TV Hindi (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "HSTV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -252,6 +240,10 @@
     },
     {
       "channel": "Prarthana Bhawan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pravasi Channel (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -335,6 +327,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Zee TV HD (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Diya TV (1080p)",
       "status": "no_working_alternative"
     },
@@ -344,6 +340,10 @@
     },
     {
       "channel": "Jus One (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Kanshi TV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -371,6 +371,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Canal Showsport (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Canal+ Sport (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -384,10 +388,6 @@
     },
     {
       "channel": "DAZN 1 Portugal",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "DAZN 3 Portugal (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -431,10 +431,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN (United States) (432p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -468,10 +464,6 @@
     },
     {
       "channel": "Fox Deportes (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Fox Sports 2 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -527,6 +519,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "MRTV Sports [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -536,10 +532,6 @@
     },
     {
       "channel": "N Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "NBA TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -648,14 +640,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
