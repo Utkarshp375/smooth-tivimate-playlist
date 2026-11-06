@@ -1,17 +1,11 @@
 {
-  "restricted_count": 136,
+  "restricted_count": 117,
   "items": [
     {
       "name": "9XM (1080p)",
       "status": "restricted",
       "http_status": 403,
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
-    },
-    {
-      "name": "Aadinath TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -26,34 +20,16 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
     },
     {
-      "name": "APN (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8"
-    },
-    {
-      "name": "Awakening TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
-    },
-    {
       "name": "Bansal News (720p)",
       "status": "restricted",
       "http_status": 401,
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
     },
     {
-      "name": "Bharat Samachar (576p)",
+      "name": "Colors Bangla HD (1080p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8"
-    },
-    {
-      "name": "Colors HD (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls="
+      "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls="
     },
     {
       "name": "Colors Bangla Cinema (576p)",
@@ -92,12 +68,6 @@
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls="
     },
     {
-      "name": "Epic Bhojpuri (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8"
-    },
-    {
       "name": "Epic Parivar (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -114,66 +84,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
-    },
-    {
-      "name": "First India News (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8"
-    },
-    {
-      "name": "Food Food (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
-    },
-    {
-      "name": "Goldmines 2 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8"
-    },
-    {
-      "name": "Goldmines Action (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
-    },
-    {
-      "name": "Gujarat First (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8"
-    },
-    {
-      "name": "Hope Channel India (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8"
-    },
-    {
-      "name": "Hornbill TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8"
-    },
-    {
-      "name": "India News (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
-    },
-    {
-      "name": "Jaihind TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
     },
     {
       "name": "Janam TV (576p)",
@@ -194,40 +104,16 @@
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8"
     },
     {
-      "name": "Kappa TV (576p)",
+      "name": "Kairali We (576p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8"
     },
     {
-      "name": "Kerala Vision (576p)",
+      "name": "Movie Punjab (720p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8"
-    },
-    {
-      "name": "Madhimugam TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8"
-    },
-    {
-      "name": "Mazhavil Manorama (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8"
-    },
-    {
-      "name": "MH One Movies (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8"
-    },
-    {
-      "name": "MH One Shraddha (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8"
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8"
     },
     {
       "name": "Movies Now HD (1080p)",
@@ -236,28 +122,28 @@
       "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls="
     },
     {
-      "name": "News Daily 24 (576p)",
+      "name": "Nanaksar Live (720p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8"
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8"
     },
     {
-      "name": "NewsX World (576p)",
+      "name": "News Live (576p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8"
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8"
+    },
+    {
+      "name": "Nick Jr. (India) (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls="
     },
     {
       "name": "OM TV (576p)",
       "status": "restricted",
       "http_status": 403,
       "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
-    },
-    {
-      "name": "Pear TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8"
     },
     {
       "name": "Pogo (576p)",
@@ -308,18 +194,6 @@
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8"
     },
     {
-      "name": "Sangeet Bhojpuri (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8"
-    },
-    {
-      "name": "Sarv Dharm Sangam (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8"
-    },
-    {
       "name": "Shaheedan Shahib (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -330,12 +204,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
-    },
-    {
-      "name": "Shubhsandesh TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8"
     },
     {
       "name": "Siri Kannada (576p)",
@@ -350,10 +218,22 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8"
     },
     {
+      "name": "Sonic (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls="
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://103.151.60.162:2122/play/a023/index.m3u8?hls="
+    },
+    {
       "name": "Sony Entertainment Television (576p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a015/index.m3u8?hls="
+      "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls="
     },
     {
       "name": "Sony Max HD (1080p)",
@@ -410,6 +290,12 @@
       "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls="
     },
     {
+      "name": "Star Gold HD (1080p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls="
+    },
+    {
       "name": "Star Jalsha (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -446,12 +332,6 @@
       "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls="
     },
     {
-      "name": "Studio Yuva (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8"
-    },
-    {
       "name": "Sun Surya HD (1080p)",
       "status": "restricted",
       "http_status": 403,
@@ -480,6 +360,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls="
+    },
+    {
+      "name": "Thanthi TV (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -512,12 +398,6 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8"
     },
     {
-      "name": "Vanitha TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8"
-    },
-    {
       "name": "Zee Bangla (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -530,10 +410,16 @@
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
     },
     {
+      "name": "Zee Cinema (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
+    },
+    {
       "name": "Zee Cinema HD (1080p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls="
+      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls="
     },
     {
       "name": "Zee Comedy Nation (1080p)",
@@ -576,6 +462,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://techtraveleat.in/stream.m3u8?id=foodxp"
+    },
+    {
+      "name": "StarPlus (United Kingdom) (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://103.151.60.162:2122/play/a0fo/index.m3u8?hls="
     },
     {
       "name": "5Plus (1080p)",
@@ -686,12 +578,6 @@
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
     },
     {
-      "name": "Movistar Deportes (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://195.178.110.110/movistar/index.m3u8"
-    },
-    {
       "name": "Okko Prajm Sport (1080p)",
       "status": "restricted",
       "http_status": 403,
@@ -713,7 +599,7 @@
       "name": "Radio TV Serie A",
       "status": "restricted",
       "http_status": 403,
-      "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
+      "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8"
     },
     {
       "name": "Setanta Sports (1080p)",

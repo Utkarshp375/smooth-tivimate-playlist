@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 181,
+  "checked": 179,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -35,6 +35,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "B4U Movies (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Bada Khabar (576p)",
       "status": "no_working_alternative"
     },
@@ -44,10 +48,6 @@
     },
     {
       "channel": "Captain (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Colors Bangla HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -119,6 +119,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Epic Music (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ETV Andhra Pradesh (1080p)",
       "status": "no_working_alternative"
     },
@@ -159,15 +163,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Harvest USA (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hosanna TV Hindi (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "India News Punjab/Himachal (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -179,15 +183,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Kanak News (576p)",
+      "channel": "Kalika TV (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "KCL TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MBC TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -196,6 +196,14 @@
     },
     {
       "channel": "Naxatra News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News18 Kannada (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News18 Odia (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -208,10 +216,6 @@
     },
     {
       "channel": "NewsX (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Nick Jr. (India) (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -231,15 +235,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Prarthana Bhawan TV (576p)",
+      "channel": "Public First (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Punjabi Beats HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Raj News Kannada (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -248,14 +248,6 @@
     },
     {
       "channel": "Shekinah TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sonic (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sony Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -268,10 +260,6 @@
     },
     {
       "channel": "Spondon (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Star Gold HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -291,7 +279,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Suriyan TV (576p)",
+      "channel": "Thanthi One (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TV5 Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vanitha TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -308,6 +304,10 @@
     },
     {
       "channel": "Zee Action (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee Bangla Sonar (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -451,10 +451,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Futbol (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Golf + (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -503,6 +499,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Movistar Deportes (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
@@ -532,10 +532,6 @@
     },
     {
       "channel": "PTV Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "PX Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -716,10 +712,6 @@
     },
     {
       "channel": "USA Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Vinh Long TV 4 (720p)",
       "status": "no_working_alternative"
     },
     {
