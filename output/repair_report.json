@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 189,
+  "checked": 187,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -20,10 +20,6 @@
     },
     {
       "channel": "AmarUjala (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -203,7 +199,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Mahotsav TV (576p)",
+      "channel": "KBP Times (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -228,10 +224,6 @@
     },
     {
       "channel": "News 24 (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -387,14 +379,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "CDN Deportes (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Colimdo TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Combate (720p)",
       "status": "no_working_alternative"
     },
@@ -543,6 +527,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "MRTV Sports [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -664,6 +652,10 @@
     },
     {
       "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
