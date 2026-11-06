@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 179,
+  "checked": 175,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -8,10 +8,6 @@
     },
     {
       "channel": "Aaj Tak (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -31,10 +27,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Assam Talks (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "B4U Movies (576p)",
       "status": "no_working_alternative"
     },
@@ -44,6 +36,10 @@
     },
     {
       "channel": "Bhakthi Siri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Bharat AtoZ (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -163,10 +159,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Harvest USA (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
@@ -228,10 +220,6 @@
     },
     {
       "channel": "NK TV Bangla (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Pradesh24 Gujarati (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -311,6 +299,14 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Zee Cinema (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee TV HD (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Diya TV (1080p)",
       "status": "no_working_alternative"
     },
@@ -344,10 +340,6 @@
     },
     {
       "channel": "Canal do Inter (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal Showsport (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -407,10 +399,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN (United States) (432p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -447,15 +435,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Fox Sports 2 (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Golf + (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hard Knocks (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "HTV Sports (1080i)",
       "status": "no_working_alternative"
     },
     {
@@ -500,10 +488,6 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -623,10 +607,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -704,6 +684,10 @@
     },
     {
       "channel": "TVRI Sport (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TyC Sports USA",
       "status": "no_working_alternative"
     },
     {
