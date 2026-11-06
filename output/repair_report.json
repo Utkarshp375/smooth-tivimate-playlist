@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 175,
+  "checked": 189,
   "items": [
     {
       "channel": "&TV (720p)",
@@ -11,7 +11,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Aakaash Aath (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Akhon Kolkata (478p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "AmarUjala (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "AMN TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Anmol TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -24,6 +40,10 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -151,6 +171,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Friends TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Good News Today (720p)",
       "status": "no_working_alternative"
     },
@@ -179,11 +203,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "KCL TV (720p)",
+      "channel": "Mahotsav TV (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Nagaland TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Nation News (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -223,11 +251,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Pradesh24 Gujarati (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Public First (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Punjabi Beats HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raatdin Bangla (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -267,6 +303,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Swastik TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
@@ -300,10 +340,6 @@
     },
     {
       "channel": "Zee Cinema (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Zee TV HD (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
@@ -348,6 +384,14 @@
     },
     {
       "channel": "CBC Sport [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CDN Deportes (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Colimdo TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -399,6 +443,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN (United States) (432p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -435,15 +483,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Fox Sports 2 (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "FUTV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Golf + (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hard Knocks (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "HTV Sports (1080i)",
       "status": "no_working_alternative"
     },
     {
@@ -579,6 +631,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sky Sports 1 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "SOS Kanal Plus (720p)",
       "status": "no_working_alternative"
     },
@@ -607,7 +663,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
@@ -667,6 +723,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Tour Spot TV (1280p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "TRT Spor (720p)",
       "status": "no_working_alternative"
     },
@@ -684,10 +744,6 @@
     },
     {
       "channel": "TVRI Sport (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TyC Sports USA",
       "status": "no_working_alternative"
     },
     {
