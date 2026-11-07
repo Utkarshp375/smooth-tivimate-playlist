@@ -11,15 +11,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "AMN TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Anmol TV (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Aradana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Arputhar Yesu TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -32,10 +32,6 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -291,10 +287,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sooriyan TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Spondon (1080p)",
       "status": "no_working_alternative"
     },
@@ -331,6 +323,18 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ZB Bhakti (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Cinema (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Music (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Zee 24 Ghanta (576p)",
       "status": "no_working_alternative"
     },
@@ -359,11 +363,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Kanshi TV (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ACC Network (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Al Iraqia Sport (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "AntenaSport",
       "status": "no_working_alternative"
     },
     {
@@ -423,6 +435,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN 2 Latin America (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN 3 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
@@ -447,19 +463,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN 6 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN (Netherlands) (360p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "ESPN Deportes HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -507,10 +515,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "HTV Sports (1080i)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -552,10 +556,6 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {

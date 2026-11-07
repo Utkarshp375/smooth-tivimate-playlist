@@ -1,5 +1,5 @@
 {
-  "restricted_count": 110,
+  "restricted_count": 109,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -506,6 +506,12 @@
       "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
     },
     {
+      "name": "GEM Sport",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR+-+GEM+Sport%2Fchunks.m3u8"
+    },
+    {
       "name": "K19",
       "status": "restricted",
       "http_status": 403,
@@ -594,18 +600,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
-    },
-    {
-      "name": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
-    },
-    {
-      "name": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
