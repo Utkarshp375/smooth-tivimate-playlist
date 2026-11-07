@@ -1,13 +1,21 @@
 {
   "repaired": 0,
-  "checked": 190,
+  "checked": 195,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
     },
     {
+      "channel": "Aakaash Aath (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "AmarUjala (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -32,6 +40,10 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -76,10 +88,6 @@
     },
     {
       "channel": "Disney Channel (India) HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Dukhnivaran Patiala Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -199,6 +207,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "KCL TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Madhimugam TV (576p)",
       "status": "no_working_alternative"
     },
@@ -263,6 +275,18 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Raj Digital Plus (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj Musix Tamil (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Safari TV (576p)",
       "status": "no_working_alternative"
     },
@@ -291,6 +315,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Star Sports Select 2 HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "StarPlus (India) HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -300,6 +328,10 @@
     },
     {
       "channel": "Thanthi One (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Thendral TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -320,18 +352,6 @@
     },
     {
       "channel": "Win TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Bhakti (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Cinema (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -363,19 +383,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Kanshi TV (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ACC Network (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Al Iraqia Sport (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "AntenaSport",
       "status": "no_working_alternative"
     },
     {
@@ -435,19 +447,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN 2 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN 3 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "ESPN 3 (Netherlands)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN 3 Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -459,11 +463,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN 5 Latin America (1080p)",
+      "channel": "ESPN 7 Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "ESPN (Netherlands) (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN (United States) (432p)",
       "status": "no_working_alternative"
     },
     {
@@ -503,7 +511,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "FUTV (1080p)",
+      "channel": "Fox Sports 2 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -647,10 +655,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sky Sports 1 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "SOS Kanal Plus (720p)",
       "status": "no_working_alternative"
     },
@@ -676,6 +680,14 @@
     },
     {
       "channel": "Sport TV+",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
@@ -735,6 +747,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Tour Spot TV (1280p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "TRT Spor (720p)",
       "status": "no_working_alternative"
     },
@@ -756,6 +772,10 @@
     },
     {
       "channel": "USA Network (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "viju+ Sport HD (1080p)",
       "status": "no_working_alternative"
     },
     {
