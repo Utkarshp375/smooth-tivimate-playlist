@@ -1,17 +1,9 @@
 {
   "repaired": 0,
-  "checked": 187,
+  "checked": 181,
   "items": [
     {
-      "channel": "&TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Aaj Tak (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -20,6 +12,10 @@
     },
     {
       "channel": "AmarUjala (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -36,14 +32,6 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Assam Talks (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "B4U Movies (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -80,6 +68,10 @@
     },
     {
       "channel": "DD Tripura (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Deewana HD (540p)",
       "status": "no_working_alternative"
     },
     {
@@ -179,6 +171,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Harvest USA (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
@@ -192,14 +188,6 @@
     },
     {
       "channel": "K News India (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Kalika TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "KBP Times (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -227,6 +215,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Nation 81 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -240,6 +232,10 @@
     },
     {
       "channel": "NK TV Bangla (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "One Paschima (400p)",
       "status": "no_working_alternative"
     },
     {
@@ -271,19 +267,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sony Sports Ten 1 HD (1080p)",
+      "channel": "Sony Yay! (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Spondon (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Star Sports 2 HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Star Sports 2 Hindi (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -319,6 +307,14 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ZB Cinema (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Music (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Zee 24 Ghanta (576p)",
       "status": "no_working_alternative"
     },
@@ -344,6 +340,10 @@
     },
     {
       "channel": "Jus One (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Kanshi TV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -427,10 +427,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN (United States) (432p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN Deportes HD (720p)",
       "status": "no_working_alternative"
     },
@@ -464,10 +460,6 @@
     },
     {
       "channel": "Fox Deportes (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Fox Sports 2 (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -524,10 +516,6 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -651,14 +639,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sukan RTM (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -728,10 +708,6 @@
     },
     {
       "channel": "TVMatic Fight (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVP Sport (1080p)",
       "status": "no_working_alternative"
     },
     {

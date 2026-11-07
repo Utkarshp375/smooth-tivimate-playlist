@@ -1,5 +1,5 @@
 {
-  "restricted_count": 116,
+  "restricted_count": 110,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -24,6 +24,12 @@
       "status": "restricted",
       "http_status": 401,
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+    },
+    {
+      "name": "BTL TV (Netherlands) (1080p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
     },
     {
       "name": "Colors Bangla HD (1080p)",
@@ -146,12 +152,6 @@
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls="
     },
     {
-      "name": "Prameya News7 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8"
-    },
-    {
       "name": "Pratham News (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -248,34 +248,10 @@
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls="
     },
     {
-      "name": "Sony Sports Ten 1 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls="
-    },
-    {
-      "name": "Sony Sports Ten 2 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls="
-    },
-    {
       "name": "Sony Sports Ten 3 Hindi (576p)",
       "status": "restricted",
       "http_status": 403,
       "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls="
-    },
-    {
-      "name": "Sony Sports Ten 4 Kannada (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls="
-    },
-    {
-      "name": "Sony Sports Ten 5 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls="
     },
     {
       "name": "Star Gold 2 HD (1080p)",
@@ -305,25 +281,7 @@
       "name": "Star Sports 2 (576p)",
       "status": "restricted",
       "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls="
-    },
-    {
-      "name": "Star Sports 3 (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls="
-    },
-    {
-      "name": "Star Sports Select 1 HD (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls="
-    },
-    {
-      "name": "Star Sports Select 2 HD (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls="
+      "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls="
     },
     {
       "name": "Sun Surya HD (1080p)",
@@ -348,12 +306,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8"
-    },
-    {
-      "name": "Ten Cricket (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls="
     },
     {
       "name": "Thanthi TV (576p)",
@@ -632,6 +584,12 @@
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8"
     },
     {
+      "name": "Sky Sports News (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8"
+    },
+    {
       "name": "Sky Sports NFL (720p)",
       "status": "restricted",
       "http_status": 403,
@@ -642,6 +600,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
+    },
+    {
+      "name": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
