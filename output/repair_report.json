@@ -1,13 +1,9 @@
 {
   "repaired": 0,
-  "checked": 171,
+  "checked": 190,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -31,6 +27,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Asianet Suvarna News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Asom Live 24 (576p)",
       "status": "no_working_alternative"
     },
@@ -48,6 +48,10 @@
     },
     {
       "channel": "Captain (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CVR OM Spiritual (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -76,6 +80,10 @@
     },
     {
       "channel": "Disney Channel (India) HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Dukhnivaran Patiala Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -159,6 +167,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Goodness TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Harvest TV (1080p)",
       "status": "no_working_alternative"
     },
@@ -171,7 +183,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Hornbill TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hosanna TV Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jaihind TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -180,6 +200,10 @@
     },
     {
       "channel": "K News India (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Madhimugam TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -203,6 +227,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Nation 81 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -211,11 +239,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Nireekshana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NK TV 24x7 (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "NK TV Bangla (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pear TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -228,6 +264,14 @@
     },
     {
       "channel": "Punjabi Beats HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Safari TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Samachar Plus 24x7 (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -247,11 +291,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Spondon (1080p)",
+      "channel": "Sooriyan TV (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Star Sports Select 2 HD (720p)",
+      "channel": "Spondon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -268,6 +312,10 @@
     },
     {
       "channel": "TV5 Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Unique TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -383,7 +431,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN 3 Latin America (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN 4 (Netherlands)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 4 Latin America (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 5 Latin America (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN 6 Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -392,6 +456,10 @@
     },
     {
       "channel": "ESPN Deportes HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -439,6 +507,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "HTV Sports (1080i)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -480,6 +552,10 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
