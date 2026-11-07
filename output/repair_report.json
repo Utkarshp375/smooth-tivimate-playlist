@@ -1,13 +1,13 @@
 {
   "repaired": 0,
-  "checked": 181,
+  "checked": 171,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Akhon Kolkata (478p)",
+      "channel": "Aakaash Aath (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -35,15 +35,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Assam Talks (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Bada Khabar (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Bhakthi Siri (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Bharat AtoZ (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -68,10 +68,6 @@
     },
     {
       "channel": "DD Tripura (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Deewana HD (540p)",
       "status": "no_working_alternative"
     },
     {
@@ -159,10 +155,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Friends TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Good News Today (720p)",
       "status": "no_working_alternative"
     },
@@ -195,10 +187,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Nation News (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Naxatra News (576p)",
       "status": "no_working_alternative"
     },
@@ -212,10 +200,6 @@
     },
     {
       "channel": "News 24 (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -235,10 +219,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "One Paschima (400p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Pradesh24 Gujarati (1080p)",
       "status": "no_working_alternative"
     },
@@ -248,10 +228,6 @@
     },
     {
       "channel": "Punjabi Beats HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Raatdin Bangla (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -275,15 +251,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Star Sports Select 2 HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "StarPlus (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "STV Haryana News (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Swastik TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -304,14 +280,6 @@
     },
     {
       "channel": "Win TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Cinema (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -340,10 +308,6 @@
     },
     {
       "channel": "Jus One (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Kanshi TV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -692,10 +656,6 @@
     },
     {
       "channel": "TNT Sports 4",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Tour Spot TV (1280p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
