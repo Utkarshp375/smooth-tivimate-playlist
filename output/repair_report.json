@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 193,
+  "checked": 188,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -23,19 +23,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Aryan TV National (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Asianet Suvarna News (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Asom Live 24 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -239,6 +231,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Nation 81 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -287,10 +283,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Samay Kolkata (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Shaheedan Live (576p)",
       "status": "no_working_alternative"
     },
@@ -327,19 +319,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sudarshan News (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "TV5 Kannada (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TV45 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -360,10 +344,6 @@
     },
     {
       "channel": "Win TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Zainabia Channel",
       "status": "no_working_alternative"
     },
     {
@@ -404,6 +384,10 @@
     },
     {
       "channel": "Azteca Deportes Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -563,6 +547,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "MRTV Sports [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -676,14 +664,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
