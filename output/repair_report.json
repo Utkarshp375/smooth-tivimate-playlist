@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 226,
+  "checked": 234,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -28,10 +28,6 @@
     },
     {
       "channel": "Aradana TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Aryan TV National (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -107,6 +103,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Deewana HD (540p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Dhamaal (576p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -119,7 +119,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Dukhnivaran Patiala Live (720p)",
+      "channel": "Doraemon (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -359,6 +359,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Shin-chan (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sonic (576p)",
       "status": "no_working_alternative"
     },
@@ -384,10 +388,6 @@
     },
     {
       "channel": "Spondon (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "SRK TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -443,6 +443,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "VTU (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Win TV (576p)",
       "status": "no_working_alternative"
     },
@@ -487,11 +491,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Adjarasport 1",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "AyM Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Azteca Deportes Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Barca TV",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -551,10 +567,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN 2 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN 3 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
@@ -567,14 +579,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ESPN 4 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN 6 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "ESPN (Netherlands) (360p)",
       "status": "no_working_alternative"
     },
@@ -584,10 +588,6 @@
     },
     {
       "channel": "ESPN Deportes HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -675,10 +675,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "MRTV Sports [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -696,6 +692,10 @@
     },
     {
       "channel": "One Golf (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "PK Sports (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -819,6 +819,14 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sukan RTM (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -875,10 +883,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Tour Spot TV (1280p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "TRT Spor (720p)",
       "status": "no_working_alternative"
     },
@@ -892,6 +896,34 @@
     },
     {
       "channel": "TVRI Sport (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Bowling Network (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Boxing (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Classic Sports (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Sports (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Sports Bureau (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Turbo (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TVS Women Sports (720p)",
       "status": "no_working_alternative"
     },
     {
