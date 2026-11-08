@@ -5,6 +5,19 @@ import re, sys
 from pathlib import Path
 from urllib.parse import parse_qsl, urlsplit
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+# Retry transient upstream failures (including rate limits) before skipping a source.
+SESSION = requests.Session()
+RETRY_POLICY = Retry(
+    total=4, connect=3, read=3, status=3,
+    backoff_factor=1.0,
+    status_forcelist=(429, 500, 502, 503, 504),
+    allowed_methods=frozenset({"GET"}),
+    respect_retry_after_header=True,
+)
+SESSION.mount("https://", HTTPAdapter(max_retries=RETRY_POLICY))
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_LIST = ROOT / "config" / "sources.txt"
@@ -111,7 +124,7 @@ def load_remote(url: str) -> str:
     parsed = urlsplit(url)
     if parsed.scheme.lower() != "https" or not parsed.netloc:
         raise ValueError("Only valid HTTPS playlist source URLs are accepted")
-    response = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": USER_AGENT})
+    response = SESSION.get(url, timeout=TIMEOUT, headers={"User-Agent": USER_AGENT})
     response.raise_for_status()
     if len(response.content) > 50 * 1024 * 1024:
         raise ValueError("Playlist source exceeds 50 MB limit")
