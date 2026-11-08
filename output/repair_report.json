@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 190,
+  "checked": 193,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -32,6 +32,10 @@
     },
     {
       "channel": "Asom Live 24 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Assam Talks (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -123,10 +127,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Ekamra Bharat Odia (400p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Epic Music (576p)",
       "status": "no_working_alternative"
     },
@@ -203,15 +203,23 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "KCL TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Madhimugam TV (576p)",
       "status": "no_working_alternative"
     },
     {
+      "channel": "Mahotsav TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Mercy TV (India) (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Nagaland TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Namdhari TV (404p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -228,10 +236,6 @@
     },
     {
       "channel": "News 24 (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -259,10 +263,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "One Paschima (400p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Pear TV (576p)",
       "status": "no_working_alternative"
     },
@@ -287,6 +287,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Samay Kolkata (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Shaheedan Live (576p)",
       "status": "no_working_alternative"
     },
@@ -307,10 +311,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sony Yay! (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Spondon (1080p)",
       "status": "no_working_alternative"
     },
@@ -327,7 +327,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Suriyan TV (576p)",
+      "channel": "Sudarshan News (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -336,6 +336,10 @@
     },
     {
       "channel": "TV5 Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "TV45 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -351,7 +355,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Vision (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zainabia Channel",
       "status": "no_working_alternative"
     },
     {
@@ -384,10 +396,6 @@
     },
     {
       "channel": "ACC Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Al Iraqia Sport (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -464,6 +472,10 @@
     },
     {
       "channel": "ESPN Deportes HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Eurosport 1 Serbia",
       "status": "no_working_alternative"
     },
     {
@@ -548,10 +560,6 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -672,6 +680,10 @@
     },
     {
       "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
