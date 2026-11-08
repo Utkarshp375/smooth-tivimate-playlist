@@ -31,7 +31,7 @@ automatically playable merely because a manifest hint is present.
 - Writes output/restricted_channels.json for HTTP 401/403 channels, with sensitive query values redacted.
 - Can replace dead links only when an exact same-channel alternative from configured authorized sources is verified reachable.
 - Optionally downloads an authorized XMLTV feed using the EPG_URL Actions variable.
-- GitHub Actions runs every 10 minutes, on relevant pushes, or manually. Each run downloads the latest configured upstream M3U sources and rebuilds the playlist. If an upstream source publishes a replacement URL, the next successful run can pick it up; this does not independently refresh account-bound tokens or bypass 401/403 restrictions. GitHub may delay scheduled runs during high load.
+- GitHub Actions polls every 5 minutes (GitHub schedule; best-effort), on relevant pushes, or manually. Each run downloads the latest content from every configured HTTPS M3U source and rebuilds the playlist, so updated source entries are picked up on the next successful run. Transient upstream errors, including HTTP 429/5xx, are retried with backoff before a source is skipped. GitHub can delay or drop scheduled runs during high load, so this is not an instant webhook. Account-bound tokens and 401/403 restrictions are not renewed or bypassed.
 
 ## Run locally
     python -m pip install -r requirements.txt
