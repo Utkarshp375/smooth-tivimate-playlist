@@ -1,7 +1,11 @@
 {
   "repaired": 0,
-  "checked": 208,
+  "checked": 226,
   "items": [
+    {
+      "channel": "&pictures HD (1080p)",
+      "status": "no_working_alternative"
+    },
     {
       "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
@@ -15,15 +19,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "AMN TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Anmol TV (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Aradana TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Arputhar Yesu TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -43,7 +47,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ATN Samachar (1080p)",
+      "channel": "B4U Movies (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -55,15 +59,27 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Bhakti Dhara (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Captain (576p)",
       "status": "no_working_alternative"
     },
     {
+      "channel": "Cartoon Network HD+ (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Colors HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Colors Bangla HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Colors Bangla Cinema (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Colors Cineplex HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -92,6 +108,10 @@
     },
     {
       "channel": "Dhamaal (576p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Discovery Channel (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -175,10 +195,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Eurosport (India) HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "FashionTV (India) (576p)",
       "status": "no_working_alternative"
     },
@@ -211,7 +227,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Hungama TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Jaihind TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jalsha Movies HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -223,7 +247,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "KBP Times (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "KTV Bangla (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Madhimugam TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Movies Now HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Movies Now + (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -232,6 +272,10 @@
     },
     {
       "channel": "Namdhari TV (404p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "National Geographic (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -327,7 +371,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sony Max HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sony Yay! (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sooriyan TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -335,15 +387,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "SRK TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Star Bharat (India) HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Star Gold HD (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Star Gold Select (1080p)",
+      "channel": "Star Jalsha HD (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Star Movies Select HD (1080p)",
+      "channel": "Star Movies (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -356,10 +416,6 @@
     },
     {
       "channel": "STV Haryana News (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Suriyan TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -379,6 +435,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "VCV (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "VIP News (360p)",
       "status": "no_working_alternative"
     },
@@ -395,15 +455,19 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Zee Bangla HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Zee Bangla Sonar (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Zee Cinema (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee Cinema HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee TV HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -439,10 +503,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Canal+ Sport (1080p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "CBC Sport [Geo-blocked]",
       "status": "no_working_alternative"
     },
@@ -455,7 +515,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "DAZN 1 Germany",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "DAZN 1 Portugal",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DAZN 2 Germany",
       "status": "no_working_alternative"
     },
     {
@@ -471,10 +539,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "DiviSport (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "DSports (1080p)",
       "status": "no_working_alternative"
     },
@@ -487,15 +551,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN 2 Latin America (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN 3 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "ESPN 3 (Netherlands)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN 3 Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -508,10 +572,6 @@
     },
     {
       "channel": "ESPN 6 Latin America (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ESPN 7 Latin America (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -567,10 +627,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Golf + (1080p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Hard Knocks (1080p)",
       "status": "no_working_alternative"
     },
@@ -616,6 +672,10 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -703,7 +763,31 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sky Sport F1",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport Golf",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport Mix",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport News",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sky Sport Select",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport Tennis",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sky Sport Top Event",
       "status": "no_working_alternative"
     },
     {
@@ -732,18 +816,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sqala TV (720p)",
       "status": "no_working_alternative"
     },
     {
