@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 234,
+  "checked": 232,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -19,15 +19,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "AMN TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Anmol TV (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Aradana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Aryan TV National (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -227,6 +227,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "HSTV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hungama TV (576p)",
       "status": "no_working_alternative"
     },
@@ -244,10 +248,6 @@
     },
     {
       "channel": "K News India (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "KBP Times (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -371,10 +371,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sony BBC Earth HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sony Max HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -463,10 +459,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Zee Cinema (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Zee Cinema HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -504,10 +496,6 @@
     },
     {
       "channel": "Barca TV",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -647,6 +635,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "M Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Match! Arena (720p)",
       "status": "no_working_alternative"
     },
@@ -672,6 +664,10 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -824,10 +820,6 @@
     },
     {
       "channel": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sukan RTM (1080p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
