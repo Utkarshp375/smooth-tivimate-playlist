@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 236,
+  "checked": 229,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -19,7 +19,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ANB News (1080p)",
+      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -108,6 +108,10 @@
     },
     {
       "channel": "DD Tripura (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Yadagiri (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -259,10 +263,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Jalsha Movies (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Jalsha Movies HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -311,10 +311,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "News Nation 81 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -332,10 +328,6 @@
     },
     {
       "channel": "NK TV Bangla (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Oli TV (India) (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -427,10 +419,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Subin TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
@@ -451,10 +439,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "VCV (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "VIP News (360p)",
       "status": "no_working_alternative"
     },
@@ -464,6 +448,10 @@
     },
     {
       "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Cartoon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -519,6 +507,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Boks TV (720p)",
       "status": "no_working_alternative"
     },
@@ -532,10 +524,6 @@
     },
     {
       "channel": "Colimdo TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Combate (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -599,6 +587,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Eurosport 1 Serbia",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Eurosport 1 Turkiye",
       "status": "no_working_alternative"
     },
@@ -655,10 +647,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "M Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Match! Arena (720p)",
       "status": "no_working_alternative"
     },
@@ -684,6 +672,10 @@
     },
     {
       "channel": "Movistar Deportes (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -720,10 +712,6 @@
     },
     {
       "channel": "Radio Turrialba TV Sports (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Real Madrid TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -835,6 +823,14 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "T Sports (1080p)",
       "status": "no_working_alternative"
     },
@@ -887,6 +883,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Tour Spot TV (1280p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "TRT Spor (720p)",
       "status": "no_working_alternative"
     },
@@ -903,43 +903,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "TVS Bowling Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Boxing (360p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Classic Sports (360p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Sports (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Sports Bureau (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Turbo (360p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Women Sports (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TyC Sports USA",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "UPL.TV",
       "status": "no_working_alternative"
     },
     {
       "channel": "USA Network (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vinh Long TV 4 (720p)",
       "status": "no_working_alternative"
     },
     {
