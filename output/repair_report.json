@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 228,
+  "checked": 245,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -75,6 +75,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "CCV (480p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Colors HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -99,7 +103,27 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "DD Girnar (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Goa (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Himachal Pradesh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Malayalam (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "DD Manipur (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Mizoram (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -107,7 +131,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "DD Odia (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "DD Punjabi (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Sahyadri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Tamil (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -207,6 +243,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Gulistan News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Harvest TV (1080p)",
       "status": "no_working_alternative"
     },
@@ -227,7 +267,39 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "HSTV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hungama TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Gujarati (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Haryana (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Madhya Pradesh/Chhattisgarh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Punjab/Himachal (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Rajasthan (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Uttar Pradesh (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -256,10 +328,6 @@
     },
     {
       "channel": "Nagaland TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Namdhari TV (404p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -387,6 +455,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "SVBC 2 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "SVBC 4 (1080p)",
       "status": "no_working_alternative"
     },
@@ -412,6 +484,10 @@
     },
     {
       "channel": "Vanitha TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "VCV (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -479,31 +555,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Boks TV (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Canal do Inter (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal Showsport (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal+ Sport 2",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal+ Sport 3",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal+ Sport 4",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal+ Sport (Poland)",
       "status": "no_working_alternative"
     },
     {
@@ -540,6 +600,10 @@
     },
     {
       "channel": "Deportes TVC (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DeporTV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -620,6 +684,10 @@
     },
     {
       "channel": "Hard Knocks (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "HTV Sports (1080i)",
       "status": "no_working_alternative"
     },
     {
@@ -819,7 +887,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sqala TV (720p)",
+      "channel": "Sporty TV",
       "status": "no_working_alternative"
     },
     {
@@ -899,15 +967,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "TyC Sports USA",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "UPL.TV",
       "status": "no_working_alternative"
     },
     {
       "channel": "USA Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Vinh Long TV 4 (720p)",
       "status": "no_working_alternative"
     },
     {
