@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 229,
+  "checked": 222,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -16,10 +16,6 @@
     },
     {
       "channel": "AmarUjala (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "AMN TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -155,42 +151,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "E-Vidya 4 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 5 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 6 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 7 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 8 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 9 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 10 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 11 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "E-Vidya 12 (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Epic Music (576p)",
       "status": "no_working_alternative"
     },
@@ -227,6 +187,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Eurosport (India) HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "FashionTV (India) (576p)",
       "status": "no_working_alternative"
     },
@@ -252,6 +216,10 @@
     },
     {
       "channel": "Hosanna TV Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "HSTV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -308,6 +276,10 @@
     },
     {
       "channel": "News 24 (India) (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News Nation 81 (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -451,15 +423,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ZB Cartoon (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Zee 24 Ghanta (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Zee Action (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Zee Bangla HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -507,10 +479,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Boks TV (720p)",
       "status": "no_working_alternative"
     },
@@ -519,11 +487,31 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Canal+ Sport 2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport 3",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport 4",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport (Poland)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "CBC Sport [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
       "channel": "Colimdo TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Combate (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -675,10 +663,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "MRTV Sports [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -823,14 +807,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "T Sports (1080p)",
       "status": "no_working_alternative"
     },
@@ -908,10 +884,6 @@
     },
     {
       "channel": "USA Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Vinh Long TV 4 (720p)",
       "status": "no_working_alternative"
     },
     {

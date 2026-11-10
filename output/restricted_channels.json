@@ -1,5 +1,5 @@
 {
-  "restricted_count": 86,
+  "restricted_count": 90,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -48,6 +48,18 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
+    },
+    {
+      "name": "Goldmines 2 (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
     },
     {
       "name": "Janam TV (576p)",
@@ -474,6 +486,18 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
+    },
+    {
+      "name": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+    },
+    {
+      "name": "Sportitalia Motori (720p) [Geo-blocked]",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
