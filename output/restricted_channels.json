@@ -1,5 +1,5 @@
 {
-  "restricted_count": 82,
+  "restricted_count": 79,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -78,18 +78,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
-    },
-    {
-      "name": "Oli TV (India) (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8"
-    },
-    {
-      "name": "OM TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
     },
     {
       "name": "Pratham News (576p)",
@@ -354,12 +342,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR+-+GEM+Sport%2Fchunks.m3u8"
-    },
-    {
-      "name": "Golf Channel Latin America (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8"
     },
     {
       "name": "K19",
