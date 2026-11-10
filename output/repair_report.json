@@ -1,7 +1,11 @@
 {
   "repaired": 0,
-  "checked": 222,
+  "checked": 298,
   "items": [
+    {
+      "channel": "4TV News (576p)",
+      "status": "no_working_alternative"
+    },
     {
       "channel": "&pictures HD (1080p)",
       "status": "no_working_alternative"
@@ -12,6 +16,18 @@
     },
     {
       "channel": "Aakaash Aath (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Aastha Gujarati (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ABP Sanjha (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "All Time Movies (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -39,6 +55,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Asianet Suvarna News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Asom Live 24 (576p)",
       "status": "no_working_alternative"
     },
@@ -56,6 +76,10 @@
     },
     {
       "channel": "Bhakthi Siri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Bharat Samachar (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -87,7 +111,31 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "CVR News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CVR OM Spiritual (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "DD Assam (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Girnar (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Haryana (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Himachal Pradesh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD India (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -99,7 +147,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "DD National HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD News HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "DD Punjabi (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Sahyadri (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "DD Tamil (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -116,6 +180,10 @@
     },
     {
       "channel": "Dhamaal (576p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Dharm Sandesh (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -148,6 +216,10 @@
     },
     {
       "channel": "Dukhniwaran (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "E 24 (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -191,7 +263,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Fakt Marathi (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "FashionTV (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "First India News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Goldmines Action (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -199,11 +283,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Goodness TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Gospel TV India (576p)",
       "status": "no_working_alternative"
     },
     {
+      "channel": "Gulistan News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Harvest TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Harvest TV Keralam (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -212,6 +308,10 @@
     },
     {
       "channel": "Hindu Dharmam (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Hornbill TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -227,7 +327,47 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "India News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Gujarati (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Haryana (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Madhya Pradesh/Chhattisgarh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Punjab/Himachal (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Rajasthan (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "India News Uttar Pradesh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "INH 24x7 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Investigation Discovery (India) (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jaihind TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jalsha Movies (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -243,11 +383,67 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Kanak News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Khabar Fast (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Khabrain Abhi Tak (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Madhimugam TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Maha Movie (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Manoranjan Movies (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Mazhavil Manorama HD (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Mh 1 News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MH One (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MH One Dil Se (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MH One Movies (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MH One Shraddha (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Movies Now HD (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Movies Now + (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Munsif TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Music India (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -267,6 +463,18 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "NE News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News 1 India (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News 11 (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "News18 Kannada (1080p)",
       "status": "no_working_alternative"
     },
@@ -279,7 +487,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "News Nation 81 (1080p)",
+      "channel": "News 24 MP & Chhattisgarh (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "News Daily 24 (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -295,6 +507,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Nireekshana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NK TV 24x7 (1080p)",
       "status": "no_working_alternative"
     },
@@ -303,11 +519,31 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Paras Gold (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Peace of Mind TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pear TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Pogo (720p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Pradesh24 Gujarati (1080p)",
+      "channel": "Prag News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Prarthana Bhawan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "PTC News (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -319,7 +555,27 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Q TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raftaar Media (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Raj Musix Tamil (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Rengoni (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Saam TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sangeet Bhojpuri (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -407,7 +663,23 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "TV 100 (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Unique TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "UTV Palakkad (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Vanitha TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Vedic (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -420,6 +692,10 @@
     },
     {
       "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Cartoon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -551,6 +827,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "ESPN 2 Latin America Colombia (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "ESPN 3 (Brazil) (1080p)",
       "status": "no_working_alternative"
     },
@@ -572,6 +852,10 @@
     },
     {
       "channel": "ESPN Deportes HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ESPN Latin America Colombia (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -612,6 +896,10 @@
     },
     {
       "channel": "Fox Sports 2 (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Fox Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -692,6 +980,10 @@
     },
     {
       "channel": "PTV Sports (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "PX Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -804,6 +1096,18 @@
     },
     {
       "channel": "Sport TV+",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sqala TV (720p)",
       "status": "no_working_alternative"
     },
     {
