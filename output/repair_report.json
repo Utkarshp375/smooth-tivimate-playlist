@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 214,
+  "checked": 209,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -175,10 +175,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Harvest USA (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
@@ -188,6 +184,10 @@
     },
     {
       "channel": "Hungama TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Indywood TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -255,19 +255,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Odisha TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Pogo (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Pradesh24 Gujarati (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Prudent Media (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -368,6 +360,14 @@
     },
     {
       "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Cinema (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -499,10 +499,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Eurosport 1 Bulgaria",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Eurosport 1 Serbia",
       "status": "no_working_alternative"
     },
@@ -512,10 +508,6 @@
     },
     {
       "channel": "Eurosport 1 Polska (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Eurosport 2 Bulgaria",
       "status": "no_working_alternative"
     },
     {
@@ -551,6 +543,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "HTV Sports (1080i)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Jiangsu Sports & Leisure Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -579,22 +575,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Max Sport 1 (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Max Sport 2 (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Max Sport 3 (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Max Sport 4",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MEGOGO Sport (1080p)",
       "status": "no_working_alternative"
     },
@@ -604,6 +584,10 @@
     },
     {
       "channel": "MMA TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -640,10 +624,6 @@
     },
     {
       "channel": "Radio Turrialba TV Sports (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Real Madrid TV (1080p)",
       "status": "no_working_alternative"
     },
     {
