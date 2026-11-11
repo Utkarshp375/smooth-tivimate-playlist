@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 245,
+  "checked": 258,
   "items": [
     {
       "channel": "&pictures HD (1080p)",
@@ -23,15 +23,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Animal Planet (India) (720p)",
+      "channel": "Amrit Gurbani (720p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Animal Planet (India) HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Anmol TV (720p)",
+      "channel": "Anmol TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -40,6 +36,10 @@
     },
     {
       "channel": "Aryan TV National (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Asianet Suvarna News (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -63,11 +63,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Captain (576p)",
+      "channel": "BSTV (India) (720p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Cartoon Network (India) (720p)",
+      "channel": "Captain (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -76,6 +76,14 @@
     },
     {
       "channel": "CCV (480p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Chhaya Chitram Telugu (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Chintpurni Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -96,6 +104,10 @@
     },
     {
       "channel": "CVR News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CVR OM Spiritual (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -163,23 +175,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Discovery Channel (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Discovery Channel (India) HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Discovery Kids (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Discovery Science (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Discovery Turbo (India) (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -188,6 +184,10 @@
     },
     {
       "channel": "Doraemon (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Dukhnivaran Patiala Live (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -227,11 +227,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Eurosport (India) (720p)",
+      "channel": "FashionTV (India) (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "FashionTV (India) (576p)",
+      "channel": "FGN Channel (360p)",
       "status": "no_working_alternative"
     },
     {
@@ -239,7 +239,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Goodness TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Gospel TV India (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Grace TV (360p)",
       "status": "no_working_alternative"
     },
     {
@@ -263,11 +271,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Hosanna TV Hindi (720p)",
+      "channel": "Hornbill TV (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "HSTV (720p)",
+      "channel": "Hosanna TV Hindi (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -303,7 +311,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Investigation Discovery (India) (720p)",
+      "channel": "India Talkies (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jaihind TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -316,6 +328,14 @@
     },
     {
       "channel": "K News India (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Kabaddi 24x7 (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Madhimugam TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -363,6 +383,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Nireekshana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NK TV 24x7 (1080p)",
       "status": "no_working_alternative"
     },
@@ -371,11 +395,19 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Pogo (720p)",
+      "channel": "Padharo SA (720p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "Pradesh24 Gujarati (1080p)",
+      "channel": "Pankh (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pear TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pogo (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -384,6 +416,34 @@
     },
     {
       "channel": "Punjabi Beats HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Punjabi Music HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Punjabi TV (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Puthiya Thalaimurai Express (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Ragni (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Saang (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Safari TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Samachar Plus 24x7 (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -399,6 +459,22 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Shree Hazur Sahibji (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sindh TV (India) (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sonar Bangla (360p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Soneri Cinema (360p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sonic (576p)",
       "status": "no_working_alternative"
     },
@@ -408,10 +484,6 @@
     },
     {
       "channel": "Sony Max HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sony SAB (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -455,27 +527,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "SVBC 2 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "SVBC 4 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "TLC (India) (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TLC (India) HD (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "TV5 Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Unique TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -500,6 +560,10 @@
     },
     {
       "channel": "Win TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "ZB Cartoon (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -535,10 +599,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "ACC Network (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Adjarasport 1",
       "status": "no_working_alternative"
     },
@@ -552,10 +612,6 @@
     },
     {
       "channel": "Barca TV",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -600,10 +656,6 @@
     },
     {
       "channel": "Deportes TVC (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "DeporTV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -731,7 +783,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Movistar Deportes (1080p)",
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -768,6 +820,10 @@
     },
     {
       "channel": "Radio Turrialba TV Sports (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Real Madrid TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -876,10 +932,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
       "status": "no_working_alternative"
     },
     {
