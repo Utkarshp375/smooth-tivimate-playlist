@@ -155,19 +155,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Gangaur TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Gospel TV India (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Harvest TV (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Harvest USA (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -191,7 +183,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Marutam TV (1080p)",
+      "channel": "Mh 1 Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -315,6 +307,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Suriyan TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
@@ -323,7 +319,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "UTV Palakkad (1080p)",
+      "channel": "UP NOW (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -392,6 +388,10 @@
     },
     {
       "channel": "Canal do Inter (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal Showsport (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -507,6 +507,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Eurosport (France)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Extreme Sports Channel (576p)",
       "status": "no_working_alternative"
     },
@@ -555,6 +559,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Match! Ultra (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "MEGOGO Sport (1080p)",
       "status": "no_working_alternative"
     },
@@ -564,10 +572,6 @@
     },
     {
       "channel": "MMA TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -695,14 +699,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sporty TV",
       "status": "no_working_alternative"
     },
@@ -763,6 +759,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "TNT Sports Premium HD",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Tour Spot TV (1280p) [Not 24/7]",
       "status": "no_working_alternative"
     },
@@ -783,6 +783,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "TVS Women Sports (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "UPL.TV",
       "status": "no_working_alternative"
     },
@@ -796,10 +800,6 @@
     },
     {
       "channel": "WAPA-TV 4.2 (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Win+ Futbol (1080p)",
       "status": "no_working_alternative"
     }
   ]

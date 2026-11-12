@@ -1,5 +1,5 @@
 {
-  "restricted_count": 71,
+  "restricted_count": 72,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -72,6 +72,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
+    },
+    {
+      "name": "OM TV (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
     },
     {
       "name": "Pratham News (576p)",
@@ -392,12 +398,6 @@
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
     },
     {
-      "name": "Sportitalia Motori (720p) [Geo-blocked]",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
-    },
-    {
       "name": "Sportitalia Solocalcio (1080p)",
       "status": "restricted",
       "http_status": 403,
@@ -426,6 +426,12 @@
       "status": "restricted",
       "http_status": 401,
       "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
+    },
+    {
+      "name": "Trace Sport Stars SD",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
     }
   ],
   "note": "401/403 are reported only; authentication or provider restrictions are not bypassed."
