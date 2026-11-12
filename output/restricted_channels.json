@@ -1,5 +1,5 @@
 {
-  "restricted_count": 72,
+  "restricted_count": 71,
   "items": [
     {
       "name": "9XM (1080p)",
@@ -72,12 +72,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
-    },
-    {
-      "name": "OM TV (576p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
     },
     {
       "name": "Pratham News (576p)",
@@ -260,6 +254,12 @@
       "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
     },
     {
+      "name": "CazeTV (1080p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
+    },
+    {
       "name": "DSports 2 (1080p)",
       "status": "restricted",
       "http_status": 403,
@@ -390,12 +390,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
-    },
-    {
-      "name": "Sportitalia 24 (720p) [Geo-blocked]",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",

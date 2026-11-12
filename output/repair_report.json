@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 200,
+  "checked": 210,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -76,6 +76,10 @@
     },
     {
       "channel": "CVR News (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "CVR OM Spiritual (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -155,6 +159,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Goodness TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Gospel TV India (576p)",
       "status": "no_working_alternative"
     },
@@ -167,7 +175,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Hornbill TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hosanna TV Hindi (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Jaihind TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -183,7 +199,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Mh 1 Music (720p)",
+      "channel": "Kalika TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Madhimugam TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -219,11 +239,19 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Nireekshana TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NK TV 24x7 (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "NK TV Bangla (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Pear TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -256,6 +284,14 @@
     },
     {
       "channel": "Raj TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Safari TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Samachar Plus 24x7 (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -307,15 +343,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Suriyan TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Thanthi One (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "TV5 Kannada (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Unique TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -383,15 +419,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Boks TV (720p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Canal do Inter (720p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Canal Showsport (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -412,10 +448,6 @@
     },
     {
       "channel": "CBC Sport [Geo-blocked]",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Colimdo TV (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -507,15 +539,15 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Eurosport (France)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Extreme Sports Channel (576p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Fight Network (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "FOX Central (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -543,6 +575,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Lazio Style Channel HD (720p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Loverseny kozvetites (420p)",
       "status": "no_working_alternative"
     },
@@ -559,10 +595,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Match! Ultra (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MEGOGO Sport (1080p)",
       "status": "no_working_alternative"
     },
@@ -572,6 +604,10 @@
     },
     {
       "channel": "MMA TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -699,6 +735,14 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Sportitalia (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Sportitalia Solocalcio (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Sporty TV",
       "status": "no_working_alternative"
     },
@@ -780,10 +824,6 @@
     },
     {
       "channel": "TVRI Sport (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVS Women Sports (720p)",
       "status": "no_working_alternative"
     },
     {
