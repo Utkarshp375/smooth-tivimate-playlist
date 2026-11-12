@@ -1,11 +1,7 @@
 {
   "repaired": 0,
-  "checked": 209,
+  "checked": 194,
   "items": [
-    {
-      "channel": "&pictures HD (1080p)",
-      "status": "no_working_alternative"
-    },
     {
       "channel": "Aaj Tak (1080p)",
       "status": "no_working_alternative"
@@ -75,10 +71,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Colors Cineplex HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "CVR News (576p)",
       "status": "no_working_alternative"
     },
@@ -112,10 +104,6 @@
     },
     {
       "channel": "Discovery Channel (India) HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Disney Channel (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -163,10 +151,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Good News Today (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Gospel TV India (576p)",
       "status": "no_working_alternative"
     },
@@ -175,15 +159,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Harvest USA (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Hindu Dharmam (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Hosanna TV Hindi (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Hungama TV (576p)",
       "status": "no_working_alternative"
     },
     {
@@ -203,19 +187,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Movies Now HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Movies Now + (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Nagaland TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "National Geographic (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -271,6 +243,22 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Raj Digital Plus (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj Musix Tamil (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj Pariwar (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Raj TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Shaheedan Live (576p)",
       "status": "no_working_alternative"
     },
@@ -284,14 +272,6 @@
     },
     {
       "channel": "Sonic (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sony Aath (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sony Max HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -311,15 +291,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Star Gold HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Star Jalsha HD (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Star Movies (India) HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -355,19 +327,15 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Vision (India) (576p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "VTU (1080p)",
       "status": "no_working_alternative"
     },
     {
       "channel": "Win TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Cinema (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "ZB Music (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -380,10 +348,6 @@
     },
     {
       "channel": "Zee Bangla Sonar (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Zee Cinema HD (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -539,11 +503,11 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Hard Knocks (1080p)",
+      "channel": "Fox Sports (1080p)",
       "status": "no_working_alternative"
     },
     {
-      "channel": "HTV Sports (1080i)",
+      "channel": "Hard Knocks (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -587,10 +551,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "MRTV Sports [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "MSG (720p)",
       "status": "no_working_alternative"
     },
@@ -616,6 +576,10 @@
     },
     {
       "channel": "Polsat Sport Fight",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Prima 4K (2160p)",
       "status": "no_working_alternative"
     },
     {
@@ -679,31 +643,7 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Sky Sport F1",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sky Sport Golf",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sky Sport Mix",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sky Sport News",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Sky Sport Select",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sky Sport Tennis",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sky Sport Top Event",
       "status": "no_working_alternative"
     },
     {
@@ -823,10 +763,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "TyC Sports USA",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "UPL.TV",
       "status": "no_working_alternative"
     },
@@ -836,6 +772,10 @@
     },
     {
       "channel": "Vital Drive",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Win+ Futbol (1080p)",
       "status": "no_working_alternative"
     }
   ]
