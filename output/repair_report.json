@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 194,
+  "checked": 200,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -56,6 +56,10 @@
     },
     {
       "channel": "Cartoon Network HD+ (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Chardikla Time TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -151,6 +155,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "Gangaur TV (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "Gospel TV India (576p)",
       "status": "no_working_alternative"
     },
@@ -171,10 +179,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Indywood TV (720p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Jalsha Movies HD (1080p)",
       "status": "no_working_alternative"
     },
@@ -184,6 +188,10 @@
     },
     {
       "channel": "K News India (720p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Marutam TV (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -327,10 +335,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Vision (India) (576p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "VTU (1080p)",
       "status": "no_working_alternative"
     },
@@ -388,6 +392,22 @@
     },
     {
       "channel": "Canal do Inter (720p) [Not 24/7]",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport 2",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport 3",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport 4",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "Canal+ Sport (Poland)",
       "status": "no_working_alternative"
     },
     {
@@ -503,10 +523,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Fox Sports (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Hard Knocks (1080p)",
       "status": "no_working_alternative"
     },
@@ -548,6 +564,10 @@
     },
     {
       "channel": "MMA TV (576p)",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -772,6 +792,10 @@
     },
     {
       "channel": "Vital Drive",
+      "status": "no_working_alternative"
+    },
+    {
+      "channel": "WAPA-TV 4.2 (720p) [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
