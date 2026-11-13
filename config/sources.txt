@@ -1,6 +1,24 @@
-# Public free-to-air/community playlists only.
-# Add another source only if you have permission to access and redistribute it.
+# Public/community playlists. Use only streams you are authorized to access and redistribute.
+# India country playlist + Indian-language feeds + public category feeds.
+# Category/language feeds can include channels from outside India.
 https://iptv-org.github.io/iptv/countries/in.m3u
 https://iptv-org.github.io/iptv/languages/guj.m3u
 https://iptv-org.github.io/iptv/languages/hin.m3u
+https://iptv-org.github.io/iptv/languages/ben.m3u
+https://iptv-org.github.io/iptv/languages/tam.m3u
+https://iptv-org.github.io/iptv/languages/tel.m3u
+https://iptv-org.github.io/iptv/languages/kan.m3u
+https://iptv-org.github.io/iptv/languages/mal.m3u
+https://iptv-org.github.io/iptv/languages/mar.m3u
+https://iptv-org.github.io/iptv/languages/pan.m3u
+https://iptv-org.github.io/iptv/languages/asm.m3u
+https://iptv-org.github.io/iptv/languages/ori.m3u
+https://iptv-org.github.io/iptv/languages/urd.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+https://iptv-org.github.io/iptv/categories/news.m3u
+https://iptv-org.github.io/iptv/categories/movies.m3u
+https://iptv-org.github.io/iptv/categories/music.m3u
+https://iptv-org.github.io/iptv/categories/kids.m3u
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+https://iptv-org.github.io/iptv/categories/general.m3u
