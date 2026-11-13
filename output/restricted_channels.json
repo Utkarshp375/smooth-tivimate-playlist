@@ -74,6 +74,12 @@
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
     },
     {
+      "name": "OM TV (576p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
+    },
+    {
       "name": "Pratham News (576p)",
       "status": "restricted",
       "http_status": 403,
@@ -120,18 +126,6 @@
       "status": "restricted",
       "http_status": 403,
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8"
-    },
-    {
-      "name": "Sun TV HD (1080p)",
-      "status": "restricted",
-      "http_status": 403,
-      "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8"
     },
     {
       "name": "Thanthi TV (576p)",
@@ -426,6 +420,12 @@
       "status": "restricted",
       "http_status": 403,
       "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
+    },
+    {
+      "name": "TVRI Sport (1080p)",
+      "status": "restricted",
+      "http_status": 403,
+      "url": "http://202.150.172.59/TVRISport/index.m3u8"
     }
   ],
   "note": "401/403 are reported only; authentication or provider restrictions are not bypassed."

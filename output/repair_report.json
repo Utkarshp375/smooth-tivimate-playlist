@@ -1,6 +1,6 @@
 {
   "repaired": 0,
-  "checked": 210,
+  "checked": 201,
   "items": [
     {
       "channel": "Aaj Tak (1080p)",
@@ -227,6 +227,10 @@
       "status": "no_working_alternative"
     },
     {
+      "channel": "News Nation 81 (1080p)",
+      "status": "no_working_alternative"
+    },
+    {
       "channel": "NewsX (720p)",
       "status": "no_working_alternative"
     },
@@ -419,10 +423,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "Belarus-5 Internet (1080p) [Not 24/7]",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Boks TV (720p)",
       "status": "no_working_alternative"
     },
@@ -547,10 +547,6 @@
       "status": "no_working_alternative"
     },
     {
-      "channel": "FOX Central (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
       "channel": "Fox Deportes (720p)",
       "status": "no_working_alternative"
     },
@@ -572,10 +568,6 @@
     },
     {
       "channel": "L1 (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Lazio Style Channel HD (720p)",
       "status": "no_working_alternative"
     },
     {
@@ -604,10 +596,6 @@
     },
     {
       "channel": "MMA TV (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "MRTV Sports [Not 24/7]",
       "status": "no_working_alternative"
     },
     {
@@ -656,18 +644,6 @@
     },
     {
       "channel": "Russian Extreme (576p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Setanta Sports 1",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Setanta Sports 2",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Setanta Sports 3",
       "status": "no_working_alternative"
     },
     {
@@ -732,14 +708,6 @@
     },
     {
       "channel": "Sport TV+",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia (1080p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "Sportitalia Solocalcio (1080p)",
       "status": "no_working_alternative"
     },
     {
@@ -820,10 +788,6 @@
     },
     {
       "channel": "TVMatic Fight (720p)",
-      "status": "no_working_alternative"
-    },
-    {
-      "channel": "TVRI Sport (1080p)",
       "status": "no_working_alternative"
     },
     {
